@@ -1,0 +1,3777 @@
+[
+    {
+        "name": "Aardonyx",
+        "description": "An early stage in the evolution of sauropods.",
+        "id": 0
+    },
+    {
+        "name": "Abelisaurus",
+        "description": "'Abel's lizard' has been reconstructed from a single skull.",
+        "id": 2
+    },
+    {
+        "name": "Abrictosaurus",
+        "description": "An early relative of Heterodontosaurus.",
+        "id": 4
+    },
+    {
+        "name": "Abrosaurus",
+        "description": "A close Asian relative of Camarasaurus.",
+        "id": 4
+    },
+    {
+        "name": "Abydosaurus",
+        "description": "This sauropod's intact skull was discovered in 2010.",
+        "id": 5
+    },
+    {
+        "name": "Acanthopholis",
+        "description": "No, it's not a city in Greece.",
+        "id": 7
+    },
+    {
+        "name": "Achelousaurus",
+        "description": "Might this have been a growth stage of Pachyrhinosaurus?",
+        "id": 10
+    },
+    {
+        "name": "Achillobator",
+        "description": "This fierce raptor was discovered in modern-day Mongolia.",
+        "id": 11
+    },
+    {
+        "name": "Acristavus",
+        "description": "This early hadrosaur lacked any ornamentation on its skull.",
+        "id": 14
+    },
+    {
+        "name": "Acrocanthosaurus",
+        "description": "The largest meat-eating dinosaur of the early Cretaceous period.",
+        "id": 17
+    },
+    {
+        "name": "Acrotholus",
+        "description": "North America's earliest bone-headed dinosaur.",
+        "id": 15
+    },
+    {
+        "name": "Adamantisaurus",
+        "description": "This titanosaur was named 50 years after its discovery.",
+        "id": 16
+    },
+    {
+        "name": "Adasaurus",
+        "description": "This raptor's hind claws were unusually small.",
+        "id": 21
+    },
+    {
+        "name": "Adeopapposaurus",
+        "description": "A close relative of Massospondylus.",
+        "id": 13
+    },
+    {
+        "name": "Aegyptosaurus",
+        "description": "Try and guess which country this dinosaur was found in.",
+        "id": 15
+    },
+    {
+        "name": "Aeolosaurus",
+        "description": "Could this titanosaur have reared up on its hind legs?",
+        "id": 19
+    },
+    {
+        "name": "Aerosteon",
+        "description": "This air-boned dinosaur may have breathed like a bird.",
+        "id": 26
+    },
+    {
+        "name": "Afrovenator",
+        "description": "One of the few carnivores ever to be dug up in northern Africa.",
+        "id": 19
+    },
+    {
+        "name": "Agathaumas",
+        "description": "The first ceratopsian dinosaur ever discovered.",
+        "id": 34
+    },
+    {
+        "name": "Agilisaurus",
+        "description": "This 'agile lizard' was one of the earliest ornithopods.",
+        "id": 27
+    },
+    {
+        "name": "Agujaceratops",
+        "description": "It was once classified as a species of Chasmosaurus.",
+        "id": 36
+    },
+    {
+        "name": "Agustinia",
+        "description": "A large, spiny-backed sauropod.",
+        "id": 40
+    },
+    {
+        "name": "Ajkaceratops",
+        "description": "The first ceratopsian ever to be discovered in Europe.",
+        "id": 37
+    },
+    {
+        "name": "Alamosaurus",
+        "description": "No, it wasn't named after the Alamo, but it should have been.",
+        "id": 38
+    },
+    {
+        "name": "Alaskacephale",
+        "description": "Can you guess which state this pachycephalosaur was found in?",
+        "id": 26
+    },
+    {
+        "name": "Albalophosaurus",
+        "description": "One of the few dinosaurs ever to be discovered in Japan.",
+        "id": 47
+    },
+    {
+        "name": "Albertaceratops",
+        "description": "The most basal 'centrosaurine' yet identified.",
+        "id": 46
+    },
+    {
+        "name": "Albertadromeus",
+        "description": "This petite ornithopod was recently discovered in Canada.",
+        "id": 48
+    },
+    {
+        "name": "Albertonykus",
+        "description": "A tiny, birdlike, North American dinosaur.",
+        "id": 43
+    },
+    {
+        "name": "Albertosaurus",
+        "description": "This carnivorous dinosaur was a close relative of T. Rex.",
+        "id": 48
+    },
+    {
+        "name": "Alectrosaurus",
+        "description": "Few specimens of this 'unmarried lizard' have been found.",
+        "id": 34
+    },
+    {
+        "name": "Aletopelta",
+        "description": "The first ankylosaur known to have lived in Mexico.",
+        "id": 36
+    },
+    {
+        "name": "Alioramus",
+        "description": "Everything we know about this tyrannosaur is based on a single skull.",
+        "id": 62
+    },
+    {
+        "name": "Allosaurus",
+        "description": "The apex predator of late Jurassic North America.",
+        "id": 46
+    },
+    {
+        "name": "Altirhinus",
+        "description": "This 'high-nosed' plant eater resembled an early hadrosaur.",
+        "id": 51
+    },
+    {
+        "name": "Alvarezsaurus",
+        "description": "A bird-like dinosaur of the late Cretaceous.",
+        "id": 35
+    },
+    {
+        "name": "Alwalkeria",
+        "description": "This Indian dinosaur was one of the earliest saurischians.",
+        "id": 49
+    },
+    {
+        "name": "Alxasaurus",
+        "description": "An early relative of the bizarre Therizinosaurus.",
+        "id": 47
+    },
+    {
+        "name": "Amargasaurus",
+        "description": "A bizarre, spined sauropod from South America.",
+        "id": 57
+    },
+    {
+        "name": "Amazonsaurus",
+        "description": "One of the few dinosaurs to be found in the Amazon basin.",
+        "id": 48
+    },
+    {
+        "name": "Ammosaurus",
+        "description": "This may (or may not) have been the same dinosaur as Anchisaurus.",
+        "id": 65
+    },
+    {
+        "name": "Ampelosaurus",
+        "description": "One of the best-known of the armored titanosaurs.",
+        "id": 75
+    },
+    {
+        "name": "Amphicoelias",
+        "description": "Could it have been the biggest dinosaur that ever lived?",
+        "id": 71
+    },
+    {
+        "name": "Amurosaurus",
+        "description": "The most complete hadrosaur to be discovered in Russia.",
+        "id": 81
+    },
+    {
+        "name": "Anabisetia",
+        "description": "The best-attested South American ornithopod.",
+        "id": 48
+    },
+    {
+        "name": "Anatosaurus",
+        "description": "This dinosaur is now known as either Anatotitan or Edmontosaurus.",
+        "id": 72
+    },
+    {
+        "name": "Anatotitan",
+        "description": "This hadrosaur's name means 'giant duck'.",
+        "id": 66
+    },
+    {
+        "name": "Anchiceratops",
+        "description": "This dinosaur had a distinctively shaped frill.",
+        "id": 66
+    },
+    {
+        "name": "Anchiornis",
+        "description": "A four-winged dino-bird that resembled Microraptor.",
+        "id": 72
+    },
+    {
+        "name": "Anchisaurus",
+        "description": "One of the first dinosaurs ever to be dug up in the U.S.",
+        "id": 60
+    },
+    {
+        "name": "Andesaurus",
+        "description": "This titanosaur rivaled Argentinosaurus in size.",
+        "id": 65
+    },
+    {
+        "name": "Angaturama",
+        "description": "A Brazilian relative of Spinosaurus.",
+        "id": 55
+    },
+    {
+        "name": "Angolatitan",
+        "description": "The first dinosaur ever to be discovered in Angola.",
+        "id": 78
+    },
+    {
+        "name": "Angulomastacator",
+        "description": "This dinosaur had a strangely shaped upper jaw.",
+        "id": 95
+    },
+    {
+        "name": "Animantarx",
+        "description": "This 'living fortress' was discovered in an unusual way.",
+        "id": 103
+    },
+    {
+        "name": "Ankylosaurus",
+        "description": "This dinosaur was the Cretaceous equivalent of a Sherman tank.",
+        "id": 85
+    },
+    {
+        "name": "Anodontosaurus",
+        "description": "This 'toothless lizard' actually had a full set of choppers.",
+        "id": 83
+    },
+    {
+        "name": "Anserimimus",
+        "description": "This 'goose mimic' didn’t bear much of a resemblance.",
+        "id": 80
+    },
+    {
+        "name": "Antarctopelta",
+        "description": "The first dinosaur fossil ever discovered in Antarctica.",
+        "id": 86
+    },
+    {
+        "name": "Antarctosaurus",
+        "description": "This titanosaur may or may not have lived in Antarctica.",
+        "id": 86
+    },
+    {
+        "name": "Antetonitrus",
+        "description": "Either a very late prosauropod or a very early sauropod.",
+        "id": 112
+    },
+    {
+        "name": "Anzu",
+        "description": "This Oviraptor relative was recently discovered in North America.",
+        "id": 119
+    },
+    {
+        "name": "Aorun",
+        "description": "A small theropod of late Jurassic Asia.",
+        "id": 83
+    },
+    {
+        "name": "Apatosaurus",
+        "description": "The dinosaur formerly known as Brontosaurus.",
+        "id": 111
+    },
+    {
+        "name": "Appalachiosaurus",
+        "description": "One of the few dinosaurs ever to be found in Alabama.",
+        "id": 80
+    },
+    {
+        "name": "Aquilops",
+        "description": "The earliest ceratopsian ever to be discovered in North America.",
+        "id": 86
+    },
+    {
+        "name": "Aragosaurus",
+        "description": "named after the Aragon region of Spain.",
+        "id": 89
+    },
+    {
+        "name": "Aralosaurus",
+        "description": "Not much is known about this central Asian duck-billed dinosaur.",
+        "id": 112
+    },
+    {
+        "name": "Archaeoceratops",
+        "description": "Possibly the smallest ceratopsian that ever lived.",
+        "id": 126
+    },
+    {
+        "name": "Archaeopteryx",
+        "description": "This ancient dino-bird was about the size of a modern pigeon.",
+        "id": 138
+    },
+    {
+        "name": "Archaeornithomimus",
+        "description": "A likely ancestor of Ornithomimus.",
+        "id": 84
+    },
+    {
+        "name": "Arcovenator",
+        "description": "This fierce abelisaur was recently discovered in France.",
+        "id": 89
+    },
+    {
+        "name": "Arcusaurus",
+        "description": "This prosauropod was recently discovered in South Africa.",
+        "id": 108
+    },
+    {
+        "name": "Argentinosaurus",
+        "description": "Possibly the largest dinosaur that ever lived.",
+        "id": 138
+    },
+    {
+        "name": "Argyrosaurus",
+        "description": "A plus-sized titanosaur from South America.",
+        "id": 75
+    },
+    {
+        "name": "Aristosuchus",
+        "description": "This 'noble crocodile' was actually a dinosaur.",
+        "id": 98
+    },
+    {
+        "name": "Arrhinoceratops",
+        "description": "This ceratopsian was named for its 'missing' nose horn.",
+        "id": 147
+    },
+    {
+        "name": "Astrodon",
+        "description": "The official state dinosaur of Maryland.",
+        "id": 82
+    },
+    {
+        "name": "Asylosaurus",
+        "description": "This 'unharmed lizard' escaped destruction in World War II.",
+        "id": 92
+    },
+    {
+        "name": "Atlasaurus",
+        "description": "This sauropod had unusually long legs.",
+        "id": 131
+    },
+    {
+        "name": "Atlascopcosaurus",
+        "description": "named after a manufacturer of digging equipment.",
+        "id": 152
+    },
+    {
+        "name": "Atrociraptor",
+        "description": "This 'cruel thief' wasn't as atrocious as its name implies.",
+        "id": 92
+    },
+    {
+        "name": "Aublysodon",
+        "description": "This tyrannosaur was named after a single tooth.",
+        "id": 155
+    },
+    {
+        "name": "Aucasaurus",
+        "description": "This predator was a close relative of Carnotaurus.",
+        "id": 157
+    },
+    {
+        "name": "Auroraceratops",
+        "description": "A close relative of Archaeoceratops.",
+        "id": 139
+    },
+    {
+        "name": "Australodocus",
+        "description": "This sauropod was found in modern-day Tanzania.",
+        "id": 152
+    },
+    {
+        "name": "Australovenator",
+        "description": "A recently discovered carnivore from Australia.",
+        "id": 151
+    },
+    {
+        "name": "Austroraptor",
+        "description": "The largest raptor from South America.",
+        "id": 93
+    },
+    {
+        "name": "Austrosaurus",
+        "description": "This titanosaur was discovered near a train station.",
+        "id": 89
+    },
+    {
+        "name": "Avaceratops",
+        "description": "This ceratopsian is represented by a single juvenile.",
+        "id": 102
+    },
+    {
+        "name": "Aviatyrannis",
+        "description": "This 'grandmother tyrant' was one of the first tyrannosaurs.",
+        "id": 167
+    },
+    {
+        "name": "Avimimus",
+        "description": "A particularly bird-like cousin of Oviraptor.",
+        "id": 179
+    },
+    {
+        "name": "Bactrosaurus",
+        "description": "One of the earliest of the duck-billed dinosaurs.",
+        "id": 137
+    },
+    {
+        "name": "Bagaceratops",
+        "description": "A small ceratopsian from central Asia.",
+        "id": 144
+    },
+    {
+        "name": "Bagaraatan",
+        "description": "No one is quite sure how to classify this theropod.",
+        "id": 122
+    },
+    {
+        "name": "Bahariasaurus",
+        "description": "This obscure carnivore may have been the size of T. Rex.",
+        "id": 187
+    },
+    {
+        "name": "Balaur",
+        "description": "This 'stocky dragon' was recently discovered in Romania.",
+        "id": 133
+    },
+    {
+        "name": "Bambiraptor",
+        "description": "Yes, this tiny raptor was named after you-know-who.",
+        "id": 164
+    },
+    {
+        "name": "Barapasaurus",
+        "description": "Probably the first of the giant sauropods.",
+        "id": 132
+    },
+    {
+        "name": "Barilium",
+        "description": "Yet another iguanodontid ornithopod of the British Isles.",
+        "id": 114
+    },
+    {
+        "name": "Barosaurus",
+        "description": "An enormous plant-eater with a tiny head.",
+        "id": 171
+    },
+    {
+        "name": "Barsboldia",
+        "description": "This hadrosaur was named after Rinchen Barsbold.",
+        "id": 180
+    },
+    {
+        "name": "Baryonyx",
+        "description": "You wouldn't want to clip this dinosaur's claws.",
+        "id": 201
+    },
+    {
+        "name": "Batyrosaurus",
+        "description": "One of the most basal hadrosaurs yet identified.",
+        "id": 115
+    },
+    {
+        "name": "Becklespinax",
+        "description": "A strangely named theropod of the early Cretaceous period.",
+        "id": 141
+    },
+    {
+        "name": "Beipiaosaurus",
+        "description": "The only known feathered therizinosaur.",
+        "id": 189
+    },
+    {
+        "name": "Beishanlong",
+        "description": "This bird mimic weighed over half a ton.",
+        "id": 159
+    },
+    {
+        "name": "Bellusaurus",
+        "description": "A herd of this sauropod drowned in a flash flood.",
+        "id": 121
+    },
+    {
+        "name": "Berberosaurus",
+        "description": "This 'Berber lizard' has proven difficult to classify.",
+        "id": 208
+    },
+    {
+        "name": "Bicentenaria",
+        "description": "This dinosaur was named for Argentina's 200th anniversary.",
+        "id": 109
+    },
+    {
+        "name": "Bistahieversor",
+        "description": "This tyrannosaur had more teeth than T. Rex.",
+        "id": 125
+    },
+    {
+        "name": "Bonapartenykus",
+        "description": "This feathered dinosaur was found in close proximity to its eggs.",
+        "id": 140
+    },
+    {
+        "name": "Bonitasaura",
+        "description": "This titanosaur wasn't as beautiful as its name implies.",
+        "id": 215
+    },
+    {
+        "name": "Borogovia",
+        "description": "This theropod was named after a Lewis Carroll poem.",
+        "id": 124
+    },
+    {
+        "name": "Bothriospondylus",
+        "description": "A case study in dinosaur confusion.",
+        "id": 144
+    },
+    {
+        "name": "Brachiosaurus",
+        "description": "This dinosaur was a giant, gentle, long-necked plant-eater.",
+        "id": 187
+    },
+    {
+        "name": "Brachyceratops",
+        "description": "A little-known ceratopsian from North America.",
+        "id": 128
+    },
+    {
+        "name": "Brachylophosaurus",
+        "description": "This duck-billed dinosaur's beak looked more like a parrot's.",
+        "id": 147
+    },
+    {
+        "name": "Brachytrachelopan",
+        "description": "This sauropod had an unusually short neck.",
+        "id": 232
+    },
+    {
+        "name": "Bravoceratops",
+        "description": "This ceratopsian was recently discovered in Texas.",
+        "id": 216
+    },
+    {
+        "name": "Brontomerus",
+        "description": "Its name is Greek for 'thunder thighs'.",
+        "id": 147
+    },
+    {
+        "name": "Bruhathkayosaurus",
+        "description": "Was this titanosaur bigger than Argentinosaurus?",
+        "id": 231
+    },
+    {
+        "name": "Buitreraptor",
+        "description": "The oldest raptor ever discovered in South America.",
+        "id": 241
+    },
+    {
+        "name": "Byronosaurus",
+        "description": "This theropod was a close relative of Troodon.",
+        "id": 219
+    },
+    {
+        "name": "Camarasaurus",
+        "description": "The most common sauropod of Jurassic North America.",
+        "id": 231
+    },
+    {
+        "name": "Camarillasaurus",
+        "description": "A ceratosaur of early Cretaceous western Europe.",
+        "id": 214
+    },
+    {
+        "name": "Camelotia",
+        "description": "An early member of the line that evolved into sauropods.",
+        "id": 185
+    },
+    {
+        "name": "Camptosaurus",
+        "description": "A close relative of Iguanodon.",
+        "id": 143
+    },
+    {
+        "name": "Carcharodontosaurus",
+        "description": "Its name means 'great white shark lizard.' Impressed yet?",
+        "id": 131
+    },
+    {
+        "name": "Carnotaurus",
+        "description": "The shortest arms of any meat-eating dinosaur with horns to match.",
+        "id": 212
+    },
+    {
+        "name": "Caudipteryx",
+        "description": "A birdlike dinosaur that changed the views of paleontologists.",
+        "id": 254
+    },
+    {
+        "name": "Centrosaurus",
+        "description": "Like a unicorn, this ceratopsian only had one horn.",
+        "id": 146
+    },
+    {
+        "name": "Cerasinops",
+        "description": "A small ceratopsian of the late Cretaceous.",
+        "id": 168
+    },
+    {
+        "name": "Ceratonykus",
+        "description": "This dino-bird was discovered in Mongolia in 2009.",
+        "id": 157
+    },
+    {
+        "name": "Ceratosaurus",
+        "description": "This primitive carnivore is hard to classify.",
+        "id": 246
+    },
+    {
+        "name": "Cetiosauriscus",
+        "description": "Not to be confused with the more famous Cetiosaurus.",
+        "id": 182
+    },
+    {
+        "name": "Cetiosaurus",
+        "description": "This 'whale lizard' was once mistaken for the Loch Ness Monster.",
+        "id": 266
+    },
+    {
+        "name": "Changyuraptor",
+        "description": "Was this feathered dinosaur capable of flight?",
+        "id": 180
+    },
+    {
+        "name": "Chaoyangsaurus",
+        "description": "An early ceratopsian of the late Jurassic period.",
+        "id": 200
+    },
+    {
+        "name": "Charonosaurus",
+        "description": "This duck-billed dinosaur was much bigger than an elephant.",
+        "id": 239
+    },
+    {
+        "name": "Chasmosaurus",
+        "description": "The only dinosaur that came with its own awning.",
+        "id": 229
+    },
+    {
+        "name": "Chialingosaurus",
+        "description": "One of the earliest Asian stegosaurs.",
+        "id": 142
+    },
+    {
+        "name": "Chilantaisaurus",
+        "description": "This large theropod may have been ancestral to Spinosaurus.",
+        "id": 180
+    },
+    {
+        "name": "Chilesaurus",
+        "description": "This plant-eating theropod was recently discovered in Chile.",
+        "id": 181
+    },
+    {
+        "name": "Chindesaurus",
+        "description": "This early dinosaur was a close relative of Herrerasaurus.",
+        "id": 191
+    },
+    {
+        "name": "Chirostenotes",
+        "description": "This birdlike dinosaur has been known by three different names.",
+        "id": 152
+    },
+    {
+        "name": "Chubutisaurus",
+        "description": "This titanosaur was on Tyrannotitan's lunch menu.",
+        "id": 266
+    },
+    {
+        "name": "Chungkingosaurus",
+        "description": "This early stegosaur had some primitive characteristics.",
+        "id": 287
+    },
+    {
+        "name": "Citipati",
+        "description": "This Mongolian theropod was a close relative of Oviraptor.",
+        "id": 244
+    },
+    {
+        "name": "Claosaurus",
+        "description": "This 'broken lizard' was a primitive hadrosaur.",
+        "id": 228
+    },
+    {
+        "name": "Coahuilaceratops",
+        "description": "It had the longest horns of any known ceratopsian dinosaur.",
+        "id": 263
+    },
+    {
+        "name": "Coelophysis",
+        "description": "One of the most ancient dinosaurs ever to roam the earth.",
+        "id": 257
+    },
+    {
+        "name": "Coelurus",
+        "description": "This tiny dinosaur was a close relative of Compsognathus.",
+        "id": 243
+    },
+    {
+        "name": "Colepiocephale",
+        "description": "This thick-skulled dinosaur's name is Greek for 'knucklehead'.",
+        "id": 290
+    },
+    {
+        "name": "Compsognathus",
+        "description": "This dinosaur was the size of a chicken, but much meaner.",
+        "id": 194
+    },
+    {
+        "name": "Concavenator",
+        "description": "This large theropod had a bizarre hump on its back.",
+        "id": 248
+    },
+    {
+        "name": "Conchoraptor",
+        "description": "This 'conch thief' may have lunched on mollusks.",
+        "id": 271
+    },
+    {
+        "name": "Condorraptor",
+        "description": "A small theropod of middle Jurassic South America.",
+        "id": 180
+    },
+    {
+        "name": "Coronosaurus",
+        "description": "This 'crown lizard' was once classified as a species of Centrosaurus.",
+        "id": 227
+    },
+    {
+        "name": "Corythosaurus",
+        "description": "This 'Corinthian-helmeted' dino had a distinctive mating call.",
+        "id": 308
+    },
+    {
+        "name": "Crichtonsaurus",
+        "description": "This dinosaur was named after the author of Jurassic Park.",
+        "id": 243
+    },
+    {
+        "name": "Cruxicheiros",
+        "description": "This 'cross-handed' dinosaur was named in 2010.",
+        "id": 211
+    },
+    {
+        "name": "Cryolophosaurus",
+        "description": "This crested dinosaur was once known as 'Elvisaurus'.",
+        "id": 303
+    },
+    {
+        "name": "Cryptovolans",
+        "description": "Was this the same dinosaur as Microraptor?",
+        "id": 246
+    },
+    {
+        "name": "Cumnoria",
+        "description": "It was once mistakenly classified as a species of Iguanodon.",
+        "id": 316
+    },
+    {
+        "name": "Dacentrurus",
+        "description": "The first stegosaur ever to be described.",
+        "id": 207
+    },
+    {
+        "name": "Daemonosauru 0s",
+        "description": "This 'evil lizard' was a close relative of Coelophysis.",
+        "id": 181
+    },
+    {
+        "name": "Dahalokely",
+        "description": "A rare theropod from the island of Madagascar.",
+        "id": 250
+    },
+    {
+        "name": "Dakotaraptor",
+        "description": "This giant raptor was recently discovered in South Dakota.",
+        "id": 333
+    },
+    {
+        "name": "Daspletosaurus",
+        "description": "This 'frightful lizard' was a close cousin of T. Rex.",
+        "id": 301
+    },
+    {
+        "name": "Datousaurus",
+        "description": "A medium-sized sauropod from middle Jurassic Asia.",
+        "id": 307
+    },
+    {
+        "name": "Darwinsaurus",
+        "description": "'Darwin's lizard' may or may not be a valid dinosaur genus.",
+        "id": 234
+    },
+    {
+        "name": "Deinocheirus",
+        "description": "All we know for sure about this dinosaur is the shape of its arms.",
+        "id": 333
+    },
+    {
+        "name": "Deinodon",
+        "description": "This 'terrible tooth' is important from a historical perspective.",
+        "id": 300
+    },
+    {
+        "name": "Deinonychus",
+        "description": "One of the most fearsome raptors of the Cretaceous period.",
+        "id": 184
+    },
+    {
+        "name": "Delapparentia",
+        "description": "This ornithopod was initially classified as a species of Iguanodon.",
+        "id": 251
+    },
+    {
+        "name": "Deltadromeus",
+        "description": "An unusually speedy theropod of the middle Cretaceous.",
+        "id": 224
+    },
+    {
+        "name": "Demandasaurus",
+        "description": "A poorly understood sauropod of early Cretaceous Europe.",
+        "id": 283
+    },
+    {
+        "name": "Diabloceratops",
+        "description": "It looked like a cross between a Triceratops and a Centrosaurus.",
+        "id": 314
+    },
+    {
+        "name": "Diamantinasaurus",
+        "description": "This titanosaur was recently discovered in Australia.",
+        "id": 295
+    },
+    {
+        "name": "Diceratops",
+        "description": "Was this two-horned dinosaur really a specimen of Triceratops?",
+        "id": 251
+    },
+    {
+        "name": "Dicraeosaurus",
+        "description": "A medium-sized, spiny-necked sauropod.",
+        "id": 340
+    },
+    {
+        "name": "Dilong",
+        "description": "This 'emperor dragon' may have been an ancestor of T. Rex.",
+        "id": 194
+    },
+    {
+        "name": "Dilophosaurus",
+        "description": "This dinosaur was distinguished by the bony crests on its noggin.",
+        "id": 337
+    },
+    {
+        "name": "Dimetrodon",
+        "description": "This ancient synapsid had a huge sail on its back.",
+        "id": 189
+    },
+    {
+        "name": "Diplodocus",
+        "description": "Thin at one end, much thicker in the middle, and thin again at the far end.",
+        "id": 360
+    },
+    {
+        "name": "Dollodon",
+        "description": "named after the Belgian paleontologist Louis Dollo.",
+        "id": 191
+    },
+    {
+        "name": "Draconyx",
+        "description": "This 'dragon claw' lived in late Jurassic Portugal.",
+        "id": 350
+    },
+    {
+        "name": "Dracopelta",
+        "description": "This early ankylosaur was discovered in Portugal.",
+        "id": 204
+    },
+    {
+        "name": "Dracorex",
+        "description": "The only dinosaur to be named after the 'Harry Potter' books.",
+        "id": 343
+    },
+    {
+        "name": "Dracovenator",
+        "description": "This 'dragon hunter' was a close relative of Dilophosaurus.",
+        "id": 309
+    },
+    {
+        "name": "Dravidosaurus",
+        "description": "This 'dinosaur' may actually have been a marine reptile.",
+        "id": 312
+    },
+    {
+        "name": "Dreadnoughtus",
+        "description": "This huge titanosaur was recently discovered in Argentina.",
+        "id": 243
+    },
+    {
+        "name": "Drinker",
+        "description": "named after the famous paleontologist Edward Drinker Cope.",
+        "id": 342
+    },
+    {
+        "name": "Dromaeosauroides",
+        "description": "The only dinosaur ever to be discovered in Denmark.",
+        "id": 209
+    },
+    {
+        "name": "Dromaeosaurus",
+        "description": "This 'running lizard' was probably covered with feathers.",
+        "id": 223
+    },
+    {
+        "name": "Dromiceiomimus",
+        "description": "Possibly the fastest dinosaur that ever lived.",
+        "id": 270
+    },
+    {
+        "name": "Dryosaurus",
+        "description": "A typical ornithopod of the late Jurassic.",
+        "id": 341
+    },
+    {
+        "name": "Dryptosaurus",
+        "description": "The first tyrannosaur to be discovered in the U.S.",
+        "id": 232
+    },
+    {
+        "name": "Dubreuillosaurus",
+        "description": "This megalosaur had a long, low snout.",
+        "id": 332
+    },
+    {
+        "name": "Duriavenator",
+        "description": "Yet another theropod that was once assigned to Megalosaurus.",
+        "id": 243
+    },
+    {
+        "name": "Dyoplosaurus",
+        "description": "This ankylosaur was once confused with Euoplocephalus.",
+        "id": 354
+    },
+    {
+        "name": "Dysalotosaurus",
+        "description": "We know a lot about this dinosaur's growth stages.",
+        "id": 227
+    },
+    {
+        "name": "Dyslocosaurus",
+        "description": "Its name means 'hard-to-place lizard'.",
+        "id": 326
+    },
+    {
+        "name": "Dystrophaeus",
+        "description": "This Diplodocus-like sauropod was named by Edward Cope.",
+        "id": 304
+    },
+    {
+        "name": "Echinodon",
+        "description": "One of the few ornithopods to sport a set of canines.",
+        "id": 373
+    },
+    {
+        "name": "Edmarka",
+        "description": "This may have been a species of Torvosaurus.",
+        "id": 402
+    },
+    {
+        "name": "Edmontonia",
+        "description": "This armored dinosaur never actually lived in Edmonton.",
+        "id": 259
+    },
+    {
+        "name": "Edmontosaurus",
+        "description": "This large, duck-billed herbivore was a contemporary of T. Rex.",
+        "id": 338
+    },
+    {
+        "name": "Efraasia",
+        "description": "This Triassic herbivore may have been ancestral to sauropods.",
+        "id": 399
+    },
+    {
+        "name": "Einiosaurus",
+        "description": "This ceratopsian was a close relative of Centrosaurus.",
+        "id": 418
+    },
+    {
+        "name": "Ekrixinatosaurus",
+        "description": "Its name means 'explosion-born lizard'.",
+        "id": 259
+    },
+    {
+        "name": "Elaphrosaurus",
+        "description": "A lightweight theropod from the late Jurassic.",
+        "id": 355
+    },
+    {
+        "name": "Elmisaurus",
+        "description": "This 'foot lizard' was a close relative of Oviraptor.",
+        "id": 274
+    },
+    {
+        "name": "Elopteryx",
+        "description": "This Transylvanian dinosaur is almost as controversial as Dracula.",
+        "id": 264
+    },
+    {
+        "name": "Elrhazosaurus",
+        "description": "Once classified as a species of Valdosaurus.",
+        "id": 355
+    },
+    {
+        "name": "Enigmosaurus",
+        "description": "This 'puzzle lizard' was closely related to Therizinosaurus.",
+        "id": 386
+    },
+    {
+        "name": "Eoabelisaurus",
+        "description": "The earliest abelisaurid theropod yet identified.",
+        "id": 267
+    },
+    {
+        "name": "Eobrontosaurus",
+        "description": "This 'dawn brontosaurus' isn't accepted by most experts.",
+        "id": 300
+    },
+    {
+        "name": "Eocarcharia",
+        "description": "This 'dawn shark' prowled the woodlands of northern Africa.",
+        "id": 332
+    },
+    {
+        "name": "Eocursor",
+        "description": "This late Triassic reptile was one of the earliest true dinosaurs.",
+        "id": 412
+    },
+    {
+        "name": "Eodromaeus",
+        "description": "Yet another ancient theropod from South America.",
+        "id": 395
+    },
+    {
+        "name": "Eolambia",
+        "description": "An early hadrosaur from North America.",
+        "id": 225
+    },
+    {
+        "name": "Eoraptor",
+        "description": "This tiny dinosaur was among the first of its kind.",
+        "id": 248
+    },
+    {
+        "name": "Eosinopteryx",
+        "description": "A tiny feathered dinosaur of the late Jurassic period.",
+        "id": 387
+    },
+    {
+        "name": "Eotriceratops",
+        "description": "This 'dawn Triceratops' was recently discovered in Canada.",
+        "id": 344
+    },
+    {
+        "name": "Eotyrannus",
+        "description": "This early tyrannosaur looked more like a raptor.",
+        "id": 430
+    },
+    {
+        "name": "Epachthosaurus",
+        "description": "This 'heavy lizard' was relatively primitive for its time and place.",
+        "id": 351
+    },
+    {
+        "name": "Epidendrosaurus",
+        "description": "Did this tiny dino-bird spend its life up a tree?",
+        "id": 261
+    },
+    {
+        "name": "Epidexipteryx",
+        "description": "This feathered dinosaur predated Archaeopteryx.",
+        "id": 326
+    },
+    {
+        "name": "Equijubus",
+        "description": "Its name is Greek for 'horse mane'.",
+        "id": 367
+    },
+    {
+        "name": "Erectopus",
+        "description": "This 'upright-footed' dinosaur is a 19th-century enigma.",
+        "id": 448
+    },
+    {
+        "name": "Erketu",
+        "description": "This titanosaur had an unusually long neck.",
+        "id": 364
+    },
+    {
+        "name": "Erliansaurus",
+        "description": "A basal therizinosaur from central Asia.",
+        "id": 404
+    },
+    {
+        "name": "Erlikosaurus",
+        "description": "This late therizinosaur roamed the Mongolian forests.",
+        "id": 237
+    },
+    {
+        "name": "Euhelopus",
+        "description": "The first sauropod to be discovered in China.",
+        "id": 458
+    },
+    {
+        "name": "Euoplocephalus",
+        "description": "Even this ankylosaur's eyelids were armored.",
+        "id": 376
+    },
+    {
+        "name": "Europasaurus",
+        "description": "The smallest sauropod ever discovered.",
+        "id": 397
+    },
+    {
+        "name": "Europelta",
+        "description": "This early nodosaur was recently discovered in Spain.",
+        "id": 271
+    },
+    {
+        "name": "Euskelosaurus",
+        "description": "The first dinosaur ever to be discovered in Africa.",
+        "id": 450
+    },
+    {
+        "name": "Eustreptospondylus",
+        "description": "A close cousin of Megalosaurus.",
+        "id": 384
+    },
+    {
+        "name": "Fabrosaurus",
+        "description": "This early ornithopod may have been a species of Lesothosaurus.",
+        "id": 302
+    },
+    {
+        "name": "Falcarius",
+        "description": "A bizarre, feathered theropod from North America.",
+        "id": 356
+    },
+    {
+        "name": "Ferganasaurus",
+        "description": "The first dinosaur ever to be discovered in the USSR.",
+        "id": 382
+    },
+    {
+        "name": "Fruitadens",
+        "description": "One of the tiniest dinosaurs ever to live in North America.",
+        "id": 264
+    },
+    {
+        "name": "Fukuiraptor",
+        "description": "One of the few carnivorous dinosaurs ever to be dug up in Japan.",
+        "id": 317
+    },
+    {
+        "name": "Fukuisaurus",
+        "description": "This ornithopod was discovered in Japan.",
+        "id": 456
+    },
+    {
+        "name": "Fulgurotherium",
+        "description": "Very little is known about this 'lightning beast'.",
+        "id": 317
+    },
+    {
+        "name": "Futalognkosaurus",
+        "description": "A very big, and very strangely named sauropod.",
+        "id": 290
+    },
+    {
+        "name": "Gallimimus",
+        "description": "This 'chicken mimic' roamed the plains of the late Cretaceous.",
+        "id": 358
+    },
+    {
+        "name": "Gargoyleosaurus",
+        "description": "This 'gargoyle lizard' was an ancestor of Ankylosaurus.",
+        "id": 287
+    },
+    {
+        "name": "Garudimimus",
+        "description": "A relative slowpoke compared to other ornithomimids.",
+        "id": 434
+    },
+    {
+        "name": "Gasosaurus",
+        "description": "Yes, that's its real name, and no, it isn't for the reason you think.",
+        "id": 320
+    },
+    {
+        "name": "Gasparinisaura",
+        "description": "One of the few ornithopods known to have lived in South America.",
+        "id": 344
+    },
+    {
+        "name": "Gastonia",
+        "description": "This ankylosaur was probably on Utahraptor's lunch menu.",
+        "id": 475
+    },
+    {
+        "name": "Genyodectes",
+        "description": "This dinosaur is represented by an impressive set of teeth.",
+        "id": 477
+    },
+    {
+        "name": "Gideonmantellia",
+        "description": "Guess what naturalist this dinosaur was named after.",
+        "id": 429
+    },
+    {
+        "name": "Giganotosaurus",
+        "description": "Not quite a 'Gigantosaurus,' but close enough.",
+        "id": 488
+    },
+    {
+        "name": "Gigantoraptor",
+        "description": "This huge oviraptorosaur weighed over two tons.",
+        "id": 410
+    },
+    {
+        "name": "Gigantspinosaurus",
+        "description": "It may or may not have been a true stegosaur.",
+        "id": 449
+    },
+    {
+        "name": "Gilmoreosaurus",
+        "description": "One of the few dinosaurs known to have suffered from cancer.",
+        "id": 334
+    },
+    {
+        "name": "Giraffatitan",
+        "description": "Might this 'giant giraffe' have been a species of Brachiosaurus?",
+        "id": 348
+    },
+    {
+        "name": "Glacialisaurus",
+        "description": "This 'frozen lizard' was a close relative of Lufengosaurus.",
+        "id": 397
+    },
+    {
+        "name": "Gobiceratops",
+        "description": "This ceratopsian's tiny skull was found in the Gobi Desert.",
+        "id": 440
+    },
+    {
+        "name": "Gobisaurus",
+        "description": "An unusually large ankylosaur of central Asia.",
+        "id": 461
+    },
+    {
+        "name": "Gobivenator",
+        "description": "This feathered dinosaur gave Velociraptor a run for its money.",
+        "id": 451
+    },
+    {
+        "name": "Gojirasaurus",
+        "description": "This early predator was named after Godzilla.",
+        "id": 343
+    },
+    {
+        "name": "Gondwanatitan",
+        "description": "Yet another titanosaur from South America.",
+        "id": 520
+    },
+    {
+        "name": "Gorgosaurus",
+        "description": "Might this tyrannosaur have been a species of Albertosaurus?",
+        "id": 300
+    },
+    {
+        "name": "Goyocephale",
+        "description": "A primitive bonehead from Asia.",
+        "id": 485
+    },
+    {
+        "name": "Graciliraptor",
+        "description": "This tiny dino-bird was a close relative of Microraptor.",
+        "id": 511
+    },
+    {
+        "name": "Gryphoceratops",
+        "description": "A tiny ceratopsian of Cretaceous North America.",
+        "id": 528
+    },
+    {
+        "name": "Gryponyx",
+        "description": "This 'hooked claw' was a distant sauropod ancestor.",
+        "id": 331
+    },
+    {
+        "name": "Gryposaurus",
+        "description": "One of the most common of the duck-billed dinosaurs.",
+        "id": 441
+    },
+    {
+        "name": "Guaibasaurus",
+        "description": "Was this early dinosaur a theropod or a prosauropod?",
+        "id": 324
+    },
+    {
+        "name": "Guanlong",
+        "description": "Probably the first tyrannosaur ever to walk the earth.",
+        "id": 460
+    },
+    {
+        "name": "Hadrosaurus",
+        "description": "The official state dinosaur of New Jersey.",
+        "id": 436
+    },
+    {
+        "name": "Hagryphus",
+        "description": "The largest North American oviraptor yet discovered.",
+        "id": 468
+    },
+    {
+        "name": "Halticosaurus",
+        "description": "A 'nomen dubium' theropod of the early 20th century.",
+        "id": 521
+    },
+    {
+        "name": "Haplocanthosaurus",
+        "description": "A typical sauropod of the late Jurassic period.",
+        "id": 540
+    },
+    {
+        "name": "Haplocheirus",
+        "description": "This feathered dinosaur predated Archaeopteryx by millions of years.",
+        "id": 290
+    },
+    {
+        "name": "Harpymimus",
+        "description": "named after the winged creature of Greek myth.",
+        "id": 557
+    },
+    {
+        "name": "Haya",
+        "description": "This dinosaur was named after a horse-headed Mongolian god.",
+        "id": 468
+    },
+    {
+        "name": "Herrerasaurus",
+        "description": "This carnivore roamed present-day South America.",
+        "id": 471
+    },
+    {
+        "name": "Hesperonychus",
+        "description": "A tiny North American dinosaur.",
+        "id": 481
+    },
+    {
+        "name": "Hesperosaurus",
+        "description": "The oldest stegosaur discovered in North America.",
+        "id": 459
+    },
+    {
+        "name": "Heterodontosaurus",
+        "description": "This 'different-toothed' dinosaur was a dentist's nightmare.",
+        "id": 449
+    },
+    {
+        "name": "Hexing",
+        "description": "This early ornithomimid was recently discovered in China.",
+        "id": 473
+    },
+    {
+        "name": "Hexinlusaurus",
+        "description": "named after the Chinese professor He Xin-Lu.",
+        "id": 518
+    },
+    {
+        "name": "Heyuannia",
+        "description": "Yet another close relative of Oviraptor.",
+        "id": 405
+    },
+    {
+        "name": "Hippodraco",
+        "description": "This 'horse dragon' was recently discovered in Utah.",
+        "id": 418
+    },
+    {
+        "name": "Homalocephale",
+        "description": "This herbivore had a very flat--and very thick--skull.",
+        "id": 464
+    },
+    {
+        "name": "Hongshanosaurus",
+        "description": "This early ceratopsian is known by two skulls.",
+        "id": 393
+    },
+    {
+        "name": "Hoplitosaurus",
+        "description": "named after the heavily armored soldiers of classical Greece.",
+        "id": 479
+    },
+    {
+        "name": "Huabeisaurus",
+        "description": "A titanosaur from northern China.",
+        "id": 511
+    },
+    {
+        "name": "Huanghetitan",
+        "description": "Yet another contender for the biggest dinosaur that ever lived.",
+        "id": 329
+    },
+    {
+        "name": "Huaxiagnathus",
+        "description": "One of the biggest dino-birds of its time.",
+        "id": 380
+    },
+    {
+        "name": "Huaxiaosaurus",
+        "description": "Might it be an unusually large specimen of Shantungosaurus?",
+        "id": 566
+    },
+    {
+        "name": "Huayangosaurus",
+        "description": "Could this have been the ancestor of all the stegosaurs?",
+        "id": 420
+    },
+    {
+        "name": "Huehuecanauhtlus",
+        "description": "Its name is Aztec for 'ancient duck'.",
+        "id": 504
+    },
+    {
+        "name": "Hungarosaurus",
+        "description": "The best-attested ankylosaur ever discovered in Europe.",
+        "id": 367
+    },
+    {
+        "name": "Huxleysaurus",
+        "description": "named after the famous biologist Thomas Henry Huxley.",
+        "id": 435
+    },
+    {
+        "name": "Hylaeosaurus",
+        "description": "One of the first creatures ever to be called a dinosaur.",
+        "id": 324
+    },
+    {
+        "name": "Hypacrosaurus",
+        "description": "We know a lot about this dinosaur's family life.",
+        "id": 595
+    },
+    {
+        "name": "Hypselosaurus",
+        "description": "This titanosaur's eggs were a foot in diameter.",
+        "id": 488
+    },
+    {
+        "name": "Hypselospinus",
+        "description": "It was once classified as a species of Iguanodon.",
+        "id": 442
+    },
+    {
+        "name": "Hypsibema",
+        "description": "The official state dinosaur of Missouri.",
+        "id": 381
+    },
+    {
+        "name": "Hypsilophodon",
+        "description": "This man-sized herbivore liked to eat and run.",
+        "id": 527
+    },
+    {
+        "name": "Ichthyovenator",
+        "description": "This sail-backed dinosaur was recently discovered in Laos.",
+        "id": 485
+    },
+    {
+        "name": "Ignavusaurus",
+        "description": "Its name means 'cowardly lizard'.",
+        "id": 601
+    },
+    {
+        "name": "Iguanacolossus",
+        "description": "A brand-new ornithopod from North America.",
+        "id": 332
+    },
+    {
+        "name": "Iguanodon",
+        "description": "The second dinosaur in history ever to receive a name.",
+        "id": 451
+    },
+    {
+        "name": "Ilokelesia",
+        "description": "A primitive abelisaur from South America.",
+        "id": 318
+    },
+    {
+        "name": "Incisivosaurus",
+        "description": "This buck-toothed dinosaur was the Cretaceous equivalent of a beaver.",
+        "id": 434
+    },
+    {
+        "name": "Indosuchus",
+        "description": "This 'Indian crocodile' was actually a dinosaur.",
+        "id": 559
+    },
+    {
+        "name": "Ingenia",
+        "description": "A small, birdlike dinosaur from central Asia.",
+        "id": 506
+    },
+    {
+        "name": "Irritator",
+        "description": "This spinosaur was named by a very frustrated paleontologist.",
+        "id": 584
+    },
+    {
+        "name": "Isanosaurus",
+        "description": "One of the first sauropods ever to walk the earth.",
+        "id": 437
+    },
+    {
+        "name": "Isisaurus",
+        "description": "Otherwise known as the Indian Statistical Institute Lizard.",
+        "id": 343
+    },
+    {
+        "name": "Jainosaurus",
+        "description": "named after the Indian paleontologist Sohan Lal Jain.",
+        "id": 423
+    },
+    {
+        "name": "Janenschia",
+        "description": "The earliest titanosaur in the fossil record.",
+        "id": 332
+    },
+    {
+        "name": "Jaxartosaurus",
+        "description": "A poorly known hadrosaur from central Asia.",
+        "id": 481
+    },
+    {
+        "name": "Jeholosaurus",
+        "description": "This ornithopod may have had an omnivorous diet.",
+        "id": 507
+    },
+    {
+        "name": "Jeyawati",
+        "description": "Its name is Zuni for 'grinding mouth'.",
+        "id": 485
+    },
+    {
+        "name": "Jianchangosaurus",
+        "description": "One of the earliest therizinosaurs in the fossil record.",
+        "id": 459
+    },
+    {
+        "name": "Jinfengopteryx",
+        "description": "This feathered dinosaur was once thought to be a true bird.",
+        "id": 553
+    },
+    {
+        "name": "Jingshanosaurus",
+        "description": "A close relative of Yunnanosaurus.",
+        "id": 479
+    },
+    {
+        "name": "Jinzhousaurus",
+        "description": "This Asian dinosaur was one of the first hadrosaurs.",
+        "id": 558
+    },
+    {
+        "name": "Jobaria",
+        "description": "A strange, short-tailed African sauropod.",
+        "id": 611
+    },
+    {
+        "name": "Judiceratops",
+        "description": "The earliest Chasmosaurus ancestor yet identified.",
+        "id": 649
+    },
+    {
+        "name": "Juratyrant",
+        "description": "This early tyrannosaur was discovered in England.",
+        "id": 352
+    },
+    {
+        "name": "Juravenator",
+        "description": "Why didn't this presumed 'dino-bird' have feathers?",
+        "id": 438
+    },
+    {
+        "name": "Kaatedocus",
+        "description": "This Diplodocus relative had a characteristic grin.",
+        "id": 615
+    },
+    {
+        "name": "Kaijiangosaurus",
+        "description": "This might have been the same dinosaur as Gasosaurus.",
+        "id": 633
+    },
+    {
+        "name": "Kazaklambia",
+        "description": "This duck-billed dinosaur was discovered in Kazakhstan.",
+        "id": 467
+    },
+    {
+        "name": "Kentrosaurus",
+        "description": "A smaller, African cousin of Stegosaurus.",
+        "id": 428
+    },
+    {
+        "name": "Kerberosaurus",
+        "description": "named after the three-headed dog of Greek myth.",
+        "id": 536
+    },
+    {
+        "name": "Khaan",
+        "description": "Few small mammals dared face the wrath of this dinosaur.",
+        "id": 618
+    },
+    {
+        "name": "Kileskus",
+        "description": "Yet another 'basal' tyrannosaur from central Asia.",
+        "id": 587
+    },
+    {
+        "name": "Kinnareemimus",
+        "description": "This 'bird mimic' dinosaur was recently discovered in Thailand.",
+        "id": 643
+    },
+    {
+        "name": "Kol",
+        "description": "It's tied with Mei for 'shortest dinosaur name'.",
+        "id": 434
+    },
+    {
+        "name": "Koreaceratops",
+        "description": "There's evidence that this ceratopsian liked to go swimming.",
+        "id": 349
+    },
+    {
+        "name": "Koreanosaurus",
+        "description": "Guess what country this ornithopod was discovered in.",
+        "id": 546
+    },
+    {
+        "name": "Kosmoceratops",
+        "description": "This ceratopsian had a bizarre, downward-folding frill.",
+        "id": 401
+    },
+    {
+        "name": "Kotasaurus",
+        "description": "One of the few sauropods to be discovered in India.",
+        "id": 486
+    },
+    {
+        "name": "Kritosaurus",
+        "description": "A famous, but poorly understood hadrosaur.",
+        "id": 499
+    },
+    {
+        "name": "Kryptops",
+        "description": "This dinosaur came equipped with its own face mask.",
+        "id": 366
+    },
+    {
+        "name": "Kukufeldia",
+        "description": "Yet another ornithopod that was once lumped in with Iguanodon.",
+        "id": 617
+    },
+    {
+        "name": "Kulindadromeus",
+        "description": "Why did this ornithopod dinosaur have feathers?",
+        "id": 550
+    },
+    {
+        "name": "Kundurosaurus",
+        "description": "This hadrosaur was discovered in the far east of Russia.",
+        "id": 425
+    },
+    {
+        "name": "Labocania",
+        "description": "It may or may not have been a true tyrannosaur.",
+        "id": 574
+    },
+    {
+        "name": "Lagosuchus",
+        "description": "Could this have been the ancestor of all the dinosaurs?",
+        "id": 613
+    },
+    {
+        "name": "Lambeosaurus",
+        "description": "This duck-billed dinosaur had a hatchet-shaped crest on its noggin.",
+        "id": 667
+    },
+    {
+        "name": "Lamplughsaura",
+        "description": "This early sauropod was discovered in India.",
+        "id": 359
+    },
+    {
+        "name": "Lanzhousaurus",
+        "description": "This herbivore's teeth were half a foot long.",
+        "id": 540
+    },
+    {
+        "name": "Laosaurus",
+        "description": "This dubious ornithopod was named by Othniel C. Marsh.",
+        "id": 437
+    },
+    {
+        "name": "Lapparentosaurus",
+        "description": "This sauropod was discovered in Madagascar.",
+        "id": 411
+    },
+    {
+        "name": "Laquintasaura",
+        "description": "The first plant-eating dinosaur ever to be discovered in Venezuela.",
+        "id": 400
+    },
+    {
+        "name": "Latirhinus",
+        "description": "This duck-billed dinosaur had an enormous nose.",
+        "id": 671
+    },
+    {
+        "name": "Leaellynasaura",
+        "description": "One of the few dinosaurs to be named after a little girl.",
+        "id": 614
+    },
+    {
+        "name": "Leinkupal",
+        "description": "The latest surviving diplodocid sauropod.",
+        "id": 675
+    },
+    {
+        "name": "Leonerasaurus",
+        "description": "This prosauropod was recently discovered in Argentina.",
+        "id": 672
+    },
+    {
+        "name": "Leptoceratops",
+        "description": "One of the most primitive of all ceratopsians.",
+        "id": 560
+    },
+    {
+        "name": "Leshansaurus",
+        "description": "Did this meat-eater feast on small, armored dinosaurs?",
+        "id": 429
+    },
+    {
+        "name": "Lesothosaurus",
+        "description": "One of the earliest of all the ornithischian dinosaurs.",
+        "id": 593
+    },
+    {
+        "name": "Lessemsaurus",
+        "description": "named after the popular science writer Don Lessem.",
+        "id": 669
+    },
+    {
+        "name": "Lexovisaurus",
+        "description": "One of the oldest European stegosaurs.",
+        "id": 551
+    },
+    {
+        "name": "Leyesaurus",
+        "description": "A newly discovered prosauropod from South America.",
+        "id": 516
+    },
+    {
+        "name": "Liaoceratops",
+        "description": "A tiny ceratopsian of early Cretaceous Asia.",
+        "id": 649
+    },
+    {
+        "name": "Liaoningosaurus",
+        "description": "One of the smallest ankylosaurs in the fossil record.",
+        "id": 603
+    },
+    {
+        "name": "Liliensternus",
+        "description": "One of the largest carnivores of the Triassic period.",
+        "id": 504
+    },
+    {
+        "name": "Limaysaurus",
+        "description": "It was once classified as a species of Rebbachisaurus.",
+        "id": 517
+    },
+    {
+        "name": "Limusaurus",
+        "description": "Was this toothless theropod a vegetarian?",
+        "id": 660
+    },
+    {
+        "name": "Linhenykus",
+        "description": "This tiny dinosaur had single-clawed hands.",
+        "id": 520
+    },
+    {
+        "name": "Linheraptor",
+        "description": "This Mongolian raptor was discovered in 2008.",
+        "id": 456
+    },
+    {
+        "name": "Linhevenato",
+        "description": "r This troodont was recently discovered in Mongolia.",
+        "id": 705
+    },
+    {
+        "name": "Lophorhothon",
+        "description": "The first dinosaur ever to be discovered in Alabama.",
+        "id": 618
+    },
+    {
+        "name": "Lophostropheus",
+        "description": "This theropod lived near the Triassic/Jurassic boundary.",
+        "id": 427
+    },
+    {
+        "name": "Loricatosaurus",
+        "description": "This stegosaur was once classified as a species of Lexovisaurus.",
+        "id": 461
+    },
+    {
+        "name": "Lourinhanosaurus",
+        "description": "Not to be confused with Lourinhasaurus, below.",
+        "id": 626
+    },
+    {
+        "name": "Lourinhasaurus",
+        "description": "Not to be confused with Lourinhanosaurus, above.",
+        "id": 524
+    },
+    {
+        "name": "Luanchuanraptor",
+        "description": "A small, poorly understood Asian raptor.",
+        "id": 449
+    },
+    {
+        "name": "Lufengosaurus",
+        "description": "A common sight at Chinese natural history museums.",
+        "id": 691
+    },
+    {
+        "name": "Lurdusaurus",
+        "description": "This ornithopod resembled a giant sloth.",
+        "id": 719
+    },
+    {
+        "name": "Lusotitan",
+        "description": "This sauropod was once classified as a species of Brachiosaurus.",
+        "id": 452
+    },
+    {
+        "name": "Lycorhinus",
+        "description": "This dinosaur was once thought to be a mammal-like reptile.",
+        "id": 596
+    },
+    {
+        "name": "Lythronax",
+        "description": "This tyrannosaur lived on the island of Laramidia.",
+        "id": 414
+    },
+    {
+        "name": "Machairasaurus",
+        "description": "This 'short scimitar lizard' was a close relative of Oviraptor.",
+        "id": 668
+    },
+    {
+        "name": "Macrogryphosaurus",
+        "description": "Otherwise known as the Big Enigmatic Lizard.",
+        "id": 775
+    },
+    {
+        "name": "Magnapaulia",
+        "description": "The largest lambeosaurine hadrosaur yet identified.",
+        "id": 531
+    },
+    {
+        "name": "Magnirostris",
+        "description": "This ceratopsian had an unusually big beak.",
+        "id": 748
+    },
+    {
+        "name": "Magnosaurus",
+        "description": "Once thought to be a species of Megalosaurus.",
+        "id": 464
+    },
+    {
+        "name": "Magyarosaurus",
+        "description": "This dwarf titanosaur was probably confined to a small island.",
+        "id": 612
+    },
+    {
+        "name": "Mahakala",
+        "description": "This dino-bird was named after a Buddhist deity.",
+        "id": 582
+    },
+    {
+        "name": "Maiasaura",
+        "description": "This 'good mother lizard' kept close tabs on her young.",
+        "id": 469
+    },
+    {
+        "name": "Majungasaurus",
+        "description": "Fairly--or unfairly--known as the 'cannibal dinosaur'.",
+        "id": 535
+    },
+    {
+        "name": "Malawisaurus",
+        "description": "The first titanosaur to be found with an intact skull.",
+        "id": 764
+    },
+    {
+        "name": "Mamenchisaurus",
+        "description": "The longest-necked dinosaur that ever lived.",
+        "id": 787
+    },
+    {
+        "name": "Manidens",
+        "description": "A strangely toothed relative of Heterodontosaurus.",
+        "id": 611
+    },
+    {
+        "name": "Mantellisaurus",
+        "description": "named after the famous fossil hunter Gideon Mantell.",
+        "id": 608
+    },
+    {
+        "name": "Mantellodon",
+        "description": "This Iguanodon refugee may or may not deserve its own genus.",
+        "id": 788
+    },
+    {
+        "name": "Mapusaurus",
+        "description": "This huge carnivore was closely related to Giganotosaurus.",
+        "id": 768
+    },
+    {
+        "name": "Marshosaurus",
+        "description": "named after the famous paleontologist Othniel C. Marsh.",
+        "id": 663
+    },
+    {
+        "name": "Martharaptor",
+        "description": "This dinosaur was named after a Utah paleontologist.",
+        "id": 669
+    },
+    {
+        "name": "Masiakasaurus",
+        "description": "A bizarre, buck-toothed predator of the late Cretaceous.",
+        "id": 427
+    },
+    {
+        "name": "Massospondylus",
+        "description": "This small, lithe, bipedal plant-eater roamed the plains of South Africa.",
+        "id": 746
+    },
+    {
+        "name": "Maxakalisaurus",
+        "description": "One of the biggest titanosaurs ever found in Brazil.",
+        "id": 544
+    },
+    {
+        "name": "Medusaceratops",
+        "description": "This frilled dinosaur was a close relative of Centrosaurus.",
+        "id": 641
+    },
+    {
+        "name": "Megalosaurus",
+        "description": "The first dinosaur ever to be discovered and named.",
+        "id": 480
+    },
+    {
+        "name": "Megapnosaurus",
+        "description": "Its name is Greek for 'big dead lizard'.",
+        "id": 780
+    },
+    {
+        "name": "Megaraptor",
+        "description": "Despite its name, it wasn't really a raptor.",
+        "id": 650
+    },
+    {
+        "name": "Mei",
+        "description": "The current record-holder for 'shortest dinosaur name'.",
+        "id": 422
+    },
+    {
+        "name": "Melanorosaurus",
+        "description": "Probably the largest prosauropod that ever lived.",
+        "id": 595
+    },
+    {
+        "name": "Mendozasaurus",
+        "description": "This titanosaur was ancestral to Futalognkosaurus.",
+        "id": 505
+    },
+    {
+        "name": "Mercuriceratops",
+        "description": "This ceratopsian was discovered on the U.S./Canada border.",
+        "id": 658
+    },
+    {
+        "name": "Metriacanthosaurus",
+        "description": "Yet another dinosaur that was once mistaken for Megalosaurus.",
+        "id": 610
+    },
+    {
+        "name": "Microceratops",
+        "description": "Probably the smallest ceratopsian that ever lived.",
+        "id": 581
+    },
+    {
+        "name": "Micropachycephalosaurus",
+        "description": "The current record-holder for longest dinosaur name.",
+        "id": 741
+    },
+    {
+        "name": "Microraptor",
+        "description": "This tiny feathered dinosaur had four wings rather than two.",
+        "id": 574
+    },
+    {
+        "name": "Microvenator",
+        "description": "This 'tiny hunter' actually measured 10 feet from head to tail.",
+        "id": 690
+    },
+    {
+        "name": "Minmi",
+        "description": "An early (and very dumb) ankylosaur from Australia.",
+        "id": 577
+    },
+    {
+        "name": "Minotaurasaurus",
+        "description": "named after the half-man, half-bull of Greek myth.",
+        "id": 679
+    },
+    {
+        "name": "Miragaia",
+        "description": "This stegosaur had an unusually long neck.",
+        "id": 726
+    },
+    {
+        "name": "Mirischia",
+        "description": "Its name means 'wonderful pelvis'.",
+        "id": 799
+    },
+    {
+        "name": "Mochlodon",
+        "description": "One of the few dinosaurs ever to be discovered in Austria.",
+        "id": 729
+    },
+    {
+        "name": "Mojoceratops",
+        "description": "This ceratopsian had a heart-shaped frill.",
+        "id": 693
+    },
+    {
+        "name": "Monkonosaurus",
+        "description": "The first dinosaur ever to be discovered in modern-day Tibet.",
+        "id": 574
+    },
+    {
+        "name": "Monoclonius",
+        "description": "Might this have been a species of Centrosaurus?",
+        "id": 788
+    },
+    {
+        "name": "Monolophosaurus",
+        "description": "This Jurassic predator had a single crest on its skull.",
+        "id": 628
+    },
+    {
+        "name": "Mononykus",
+        "description": "This dinosaur may have dug into termite mounds for its lunch.",
+        "id": 579
+    },
+    {
+        "name": "Montanoceratops",
+        "description": "A primitive ceratopsian of the late Cretaceous period.",
+        "id": 792
+    },
+    {
+        "name": "Mussaurus",
+        "description": "This 'mouse lizard' lived in Triassic South America.",
+        "id": 607
+    },
+    {
+        "name": "Muttaburrasaurus",
+        "description": "The most complete dinosaur fossil ever found in Australia.",
+        "id": 656
+    },
+    {
+        "name": "Mymoorapelta",
+        "description": "named after the Mygand-Moore quarry in Colorado.",
+        "id": 814
+    },
+    {
+        "name": "Nankangia",
+        "description": "A recently discovered oviraptor from China.",
+        "id": 439
+    },
+    {
+        "name": "Nanosaurus",
+        "description": "This 'tiny lizard' was named by Othniel C. Marsh.",
+        "id": 636
+    },
+    {
+        "name": "Nanotyrannus",
+        "description": "Could this have been a juvenile T. Rex?",
+        "id": 529
+    },
+    {
+        "name": "Nanshiungosaurus",
+        "description": "A bizarre therizinosaur from Asia.",
+        "id": 536
+    },
+    {
+        "name": "Nanuqsaurus",
+        "description": "This 'polar lizard' was recently discovered in Alaska.",
+        "id": 729
+    },
+    {
+        "name": "Nanyangosaurus",
+        "description": "An iguanodontid ornithopod of middle Cretaceous Asia.",
+        "id": 788
+    },
+    {
+        "name": "Nasutoceratops",
+        "description": "This dinosaur had horns like a modern steer.",
+        "id": 645
+    },
+    {
+        "name": "Nebulasaurus",
+        "description": "This 'nebula lizard' was recently discovered in China.",
+        "id": 858
+    },
+    {
+        "name": "Nedcolbertia",
+        "description": "named after the famous paleontologist Edwin Colbert.",
+        "id": 669
+    },
+    {
+        "name": "Neimongosaurus",
+        "description": "A rare therizinosaur from inner Mongolia.",
+        "id": 796
+    },
+    {
+        "name": "Nemegtomaia",
+        "description": "This dinosaur had a bizarrely shaped skull.",
+        "id": 674
+    },
+    {
+        "name": "Nemegtosaurus",
+        "description": "This titanosaur has been recreated from a single, incomplete skull.",
+        "id": 492
+    },
+    {
+        "name": "Neovenator",
+        "description": "One of the largest carnivorous dinosaurs of western Europe.",
+        "id": 804
+    },
+    {
+        "name": "Neuquenraptor",
+        "description": "It may actually be a species (or specimen) of Unenlagia.",
+        "id": 881
+    },
+    {
+        "name": "Neuquensaurus",
+        "description": "Was this titanosaur really a species of Saltasaurus?",
+        "id": 485
+    },
+    {
+        "name": "Nigersaurus",
+        "description": "This African sauropod had a huge number of teeth.",
+        "id": 606
+    },
+    {
+        "name": "Nipponosaurus",
+        "description": "This hadrosaur was discovered on the island of Sakhalin.",
+        "id": 798
+    },
+    {
+        "name": "Noasaurus",
+        "description": "Were this predator's giant claws on its hands, or on its feet?",
+        "id": 471
+    },
+    {
+        "name": "Nodocephalosaurus",
+        "description": "This armored dinosaur has been reconstructed from a single skull.",
+        "id": 487
+    },
+    {
+        "name": "Nodosaurus",
+        "description": "One of the first armored dinosaurs ever discovered in North America.",
+        "id": 829
+    },
+    {
+        "name": "Nomingia",
+        "description": "This small dinosaur had a peacock-like tail.",
+        "id": 486
+    },
+    {
+        "name": "Nothronychus",
+        "description": "The first therizonosaur to be found outside Asia.",
+        "id": 573
+    },
+    {
+        "name": "Notohypsilophodon",
+        "description": "A rare South American ornithopod.",
+        "id": 516
+    },
+    {
+        "name": "Nqwebasaurus",
+        "description": "One of the few theropods to be discovered in sub-Saharan Africa.",
+        "id": 816
+    },
+    {
+        "name": "Nuthetes",
+        "description": "This raptor was named after the modern monitor lizard.",
+        "id": 533
+    },
+    {
+        "name": "Nyasasaurus",
+        "description": "Could this be the earliest dinosaur in the fossil record?",
+        "id": 860
+    },
+    {
+        "name": "Ojoceratops",
+        "description": "A very close relative of Triceratops.",
+        "id": 551
+    },
+    {
+        "name": "Olorotitan",
+        "description": "One of the most complete dinosaur fossils ever found in Russia.",
+        "id": 631
+    },
+    {
+        "name": "Omeisaurus",
+        "description": "One of the most common Chinese sauropods.",
+        "id": 755
+    },
+    {
+        "name": "Oohkotokia",
+        "description": "Its name is Blackfoot for 'large stone'.",
+        "id": 878
+    },
+    {
+        "name": "Opisthocoelicaudia",
+        "description": "A clumsily named titanosaur of the late Cretaceous period.",
+        "id": 576
+    },
+    {
+        "name": "Orkoraptor",
+        "description": "The southernmost theropod ever to live in South America.",
+        "id": 677
+    },
+    {
+        "name": "Ornithodesmus",
+        "description": "This mysterious raptor was once thought to be a pterosaur.",
+        "id": 816
+    },
+    {
+        "name": "Ornitholestes",
+        "description": "This 'bird robber' probably preyed on small lizards instead.",
+        "id": 879
+    },
+    {
+        "name": "Ornithomimus",
+        "description": "This 'bird mimic' resembled a modern ostrich.",
+        "id": 706
+    },
+    {
+        "name": "Ornithopsis",
+        "description": "This 'bird face' was actually a genus of titanosaur.",
+        "id": 842
+    },
+    {
+        "name": "Orodromeus",
+        "description": "This tiny herbivore was on Troodon's dinner menu.",
+        "id": 477
+    },
+    {
+        "name": "Orthomerus",
+        "description": "One of the few dinosaurs to be discovered in Holland.",
+        "id": 754
+    },
+    {
+        "name": "Oryctodromeus",
+        "description": "The only ornithopod known to have lived in burrows.",
+        "id": 939
+    },
+    {
+        "name": "Ostafrikasaurus",
+        "description": "Could this have been the earliest known spinosaur?",
+        "id": 625
+    },
+    {
+        "name": "Othnielia",
+        "description": "named after the famous paleontologist Othniel C. Marsh.",
+        "id": 603
+    },
+    {
+        "name": "Othnielosaurus",
+        "description": "Also named after the famous paleontologist Othniel C. Marsh.",
+        "id": 929
+    },
+    {
+        "name": "Ouranosaurus",
+        "description": "Scientists can't decide if this herbivore had a sail or a hump.",
+        "id": 852
+    },
+    {
+        "name": "Overosaurus",
+        "description": "This dwarf titanosaur was announced to the world in 2013.",
+        "id": 605
+    },
+    {
+        "name": "Oviraptor",
+        "description": "Turns out that this 'egg thief' got a bad rap.",
+        "id": 717
+    },
+    {
+        "name": "Oxalaia",
+        "description": "This spinosaur was recently discovered in Brazil.",
+        "id": 559
+    },
+    {
+        "name": "Ozraptor",
+        "description": "Not much is known about this Australian theropod.",
+        "id": 595
+    },
+    {
+        "name": "Pachycephalosaurus",
+        "description": "This plant-eater gave new meaning to the word 'blockhead'.",
+        "id": 928
+    },
+    {
+        "name": "Pachyrhinosaurus",
+        "description": "This 'thick-nosed lizard' roamed the North American forests.",
+        "id": 656
+    },
+    {
+        "name": "Palaeoscincus",
+        "description": "This 'ancient skink' was actually an armored dinosaur.",
+        "id": 706
+    },
+    {
+        "name": "Paluxysaurus",
+        "description": "The official Texas state dinosaur.",
+        "id": 670
+    },
+    {
+        "name": "Pampadromaeus",
+        "description": "This 'Pampas runner' was ancestral to sauropods.",
+        "id": 875
+    },
+    {
+        "name": "Pamparaptor",
+        "description": "This raptor was discovered in the Argentinian Pampas.",
+        "id": 773
+    },
+    {
+        "name": "Panamericansaurus",
+        "description": "This titanosaur was named after an energy company.",
+        "id": 586
+    },
+    {
+        "name": "Panoplosaurus",
+        "description": "A squat, stocky nodosaur of the late Cretaceous.",
+        "id": 781
+    },
+    {
+        "name": "Panphagia",
+        "description": "Its name is Greek for 'eats everything'.",
+        "id": 518
+    },
+    {
+        "name": "Pantydraco",
+        "description": "No, this dinosaur didn't wear you-know-what.",
+        "id": 536
+    },
+    {
+        "name": "Paralititan",
+        "description": "This huge sauropod was discovered recently in Egypt.",
+        "id": 718
+    },
+    {
+        "name": "Paranthodon",
+        "description": "This stegosaur was discovered over 150 years ago.",
+        "id": 684
+    },
+    {
+        "name": "Pararhabdodon",
+        "description": "The western European equivalent of Tsintaosaurus.",
+        "id": 631
+    },
+    {
+        "name": "Parasaurolophus",
+        "description": "Possibly the loudest dinosaur ever to roam the earth.",
+        "id": 552
+    },
+    {
+        "name": "Parksosaurus",
+        "description": "It was once classified as a species of Thescelosaurus.",
+        "id": 898
+    },
+    {
+        "name": "Paronychodon",
+        "description": "This 'tooth taxon' didn't make it out of the 19th century.",
+        "id": 723
+    },
+    {
+        "name": "Parvicursor",
+        "description": "One of the smallest dinosaurs yet identified.",
+        "id": 564
+    },
+    {
+        "name": "Patagosaurus",
+        "description": "This 'Patagonian lizard' hailed from South America.",
+        "id": 896
+    },
+    {
+        "name": "Pawpawsaurus",
+        "description": "This ancient nodosaur was discovered in Texas.",
+        "id": 699
+    },
+    {
+        "name": "Pedopenna",
+        "description": "One of the earliest known dino-birds.",
+        "id": 857
+    },
+    {
+        "name": "Pegomastax",
+        "description": "This dinosaur was covered with porcupine-like bristles.",
+        "id": 812
+    },
+    {
+        "name": "Pelecanimimus",
+        "description": "This 'pelican mimic' sported over 200 teeth.",
+        "id": 736
+    },
+    {
+        "name": "Peloroplites",
+        "description": "This 'monstrous Hoplite' was recently discovered in Utah.",
+        "id": 730
+    },
+    {
+        "name": "Pelorosaurus",
+        "description": "The first sauropod ever to be discovered.",
+        "id": 680
+    },
+    {
+        "name": "Pentaceratops",
+        "description": "This 'five-horned' herbivore really had only three.",
+        "id": 533
+    },
+    {
+        "name": "Philovenator",
+        "description": "As its name says this dinosaur 'loved to hunt'.",
+        "id": 652
+    },
+    {
+        "name": "Phuwiangosaurus",
+        "description": "This titanosaur was discovered in modern-day Thailand.",
+        "id": 942
+    },
+    {
+        "name": "Piatnitzkysaurus",
+        "description": "Its teeth were as sharp as its name is funny.",
+        "id": 601
+    },
+    {
+        "name": "Pinacosaurus",
+        "description": "Did this ankylosaur roam central Asia in herds?",
+        "id": 761
+    },
+    {
+        "name": "Pisanosaurus",
+        "description": "One of the earliest known ornithischian dinosaurs.",
+        "id": 755
+    },
+    {
+        "name": "Piveteausaurus",
+        "description": "No one is quite sure what to make of this theropod dinosaur.",
+        "id": 990
+    },
+    {
+        "name": "Planicoxa",
+        "description": "A medium-sized iguanodont of early Cretaceous North America.",
+        "id": 570
+    },
+    {
+        "name": "Plateosaurus",
+        "description": "This herd dinosaur blackened the plains of the late Triassic.",
+        "id": 981
+    },
+    {
+        "name": "Pleurocoelus",
+        "description": "It was the official state dinosaur of Texas.",
+        "id": 908
+    },
+    {
+        "name": "Pneumatoraptor",
+        "description": "This 'air thief' was recently discovered in Hungary.",
+        "id": 829
+    },
+    {
+        "name": "Podokesaurus",
+        "description": "One of the earliest dinosaurs to live in eastern North America.",
+        "id": 955
+    },
+    {
+        "name": "Poekilopleuron",
+        "description": "It may (or may not) have been a species of Megalosaurus.",
+        "id": 642
+    },
+    {
+        "name": "Polacanthus",
+        "description": "An extremely spiky ankylosaur of the middle Cretaceous.",
+        "id": 833
+    },
+    {
+        "name": "Prenocephale",
+        "description": "This 'bonehead' had a round, thick skull.",
+        "id": 663
+    },
+    {
+        "name": "Prenoceratops",
+        "description": "A close relative of Leptoceratops.",
+        "id": 866
+    },
+    {
+        "name": "Proa",
+        "description": "This ornithopod was named after its prow-shaped jaw.",
+        "id": 746
+    },
+    {
+        "name": "Probactrosaurus",
+        "description": "An early stage in hadrosaur evolution.",
+        "id": 935
+    },
+    {
+        "name": "Proceratosaurus",
+        "description": "Despite its name, not a close relative of Ceratosaurus.",
+        "id": 1022
+    },
+    {
+        "name": "Procompsognathus",
+        "description": "Was it an archosaur or an early dinosaur?",
+        "id": 623
+    },
+    {
+        "name": "Propanoplosaurus",
+        "description": "This baby ankylosaur was recently discovered in Maryland.",
+        "id": 1041
+    },
+    {
+        "name": "Prosaurolophus",
+        "description": "The likely ancestor of both Saurolophus and Parasaurolophus.",
+        "id": 938
+    },
+    {
+        "name": "Protarchaeopteryx",
+        "description": "Before Archaeopteryx? It actually lived millions of years later.",
+        "id": 569
+    },
+    {
+        "name": "Protoceratops",
+        "description": "A famous dinosaur with a very funky frill.",
+        "id": 663
+    },
+    {
+        "name": "Protohadros",
+        "description": "Despite its name, it wasn't really the 'first' hadrosaur.",
+        "id": 726
+    },
+    {
+        "name": "Psittacosaurus",
+        "description": "This dinosaur's noggin wouldn't have looked out of place on a parrot.",
+        "id": 838
+    },
+    {
+        "name": "Puertasaurus",
+        "description": "This titanosaur rivaled Argentinosaurus in size.",
+        "id": 548
+    },
+    {
+        "name": "Pyroraptor",
+        "description": "This 'fire thief' prowled the plains of prehistoric France.",
+        "id": 810
+    },
+    {
+        "name": "Qantassaurus",
+        "description": "named after the national airline of Australia.",
+        "id": 847
+    },
+    {
+        "name": "Qianzhousaurus",
+        "description": "This long-snouted tyrannosaur has been nicknamed Pinocchio Rex.",
+        "id": 646
+    },
+    {
+        "name": "Qiaowanlong",
+        "description": "An Asian relative of Brachiosaurus.",
+        "id": 825
+    },
+    {
+        "name": "Qiupalong",
+        "description": "This 'bird mimic' dinosaur was recently discovered in China.",
+        "id": 541
+    },
+    {
+        "name": "Quaesitosaurus",
+        "description": "This titanosaur may have had remarkably sharp hearing.",
+        "id": 925
+    },
+    {
+        "name": "Quilmesaurus",
+        "description": "This dinosaur was named after an indigenous South American tribe.",
+        "id": 546
+    },
+    {
+        "name": "Rahiolisaurus",
+        "description": "This Indian dinosaur is represented by seven tangled individuals.",
+        "id": 827
+    },
+    {
+        "name": "Rahonavis",
+        "description": "Was it a raptor-like bird or a bird-like raptor?",
+        "id": 829
+    },
+    {
+        "name": "Rajasaurus",
+        "description": "This 'prince lizard' lived in what is now modern-day India.",
+        "id": 884
+    },
+    {
+        "name": "Rapator",
+        "description": "No, this mysterious Australian theropod wasn't a raptor.",
+        "id": 916
+    },
+    {
+        "name": "Rapetosaurus",
+        "description": "The only sauropod ever to be discovered on modern-day Madagascar.",
+        "id": 1079
+    },
+    {
+        "name": "Raptorex",
+        "description": "A pint-sized precursor of T. Rex.",
+        "id": 669
+    },
+    {
+        "name": "Rebbachisaurus",
+        "description": "A poorly understood sauropod from northern Africa.",
+        "id": 640
+    },
+    {
+        "name": "Regaliceratops",
+        "description": "This ceratopsian had a huge, crown-shaped frill.",
+        "id": 1056
+    },
+    {
+        "name": "Regnosaurus",
+        "description": "This stegosaur lived in what is now modern-day England.",
+        "id": 1048
+    },
+    {
+        "name": "Rhabdodon",
+        "description": "A possible 'missing link' between Iguanodon and Hypsilophodon.",
+        "id": 803
+    },
+    {
+        "name": "Rhinorex",
+        "description": "This duck-billed dinosaur had an unusually large nose.",
+        "id": 586
+    },
+    {
+        "name": "Rhoetosaurus",
+        "description": "A medium-sized sauropod from Down Under.",
+        "id": 780
+    },
+    {
+        "name": "Richardoestesia",
+        "description": "named after the paleontologist Richard Estes.",
+        "id": 909
+    },
+    {
+        "name": "Rinchenia",
+        "description": "named after the famous paleontologist Rinchen Barsbold.",
+        "id": 854
+    },
+    {
+        "name": "Rinconsaurus",
+        "description": "A modestly sized titanosaur of South America.",
+        "id": 576
+    },
+    {
+        "name": "Riojasaurus",
+        "description": "One of the few prosauropods known to have lived in South America.",
+        "id": 781
+    },
+    {
+        "name": "Rubeosaurus",
+        "description": "A ceratopsian dinosaur from the Two Medicine Formation.",
+        "id": 612
+    },
+    {
+        "name": "Rugops",
+        "description": "This wrinkly-faced carnivore probably fed on abandoned carcasses.",
+        "id": 902
+    },
+    {
+        "name": "Sahaliyania",
+        "description": "This hadrosaur's name is Manchurian for 'black'.",
+        "id": 565
+    },
+    {
+        "name": "Saichania",
+        "description": "This ankylosaur's name is Chinese for 'beautiful'.",
+        "id": 563
+    },
+    {
+        "name": "Saltasaurus",
+        "description": "The first armored sauropod ever to be discovered.",
+        "id": 857
+    },
+    {
+        "name": "Saltopus",
+        "description": "Experts aren't sure if this was a dinosaur or an archosaur.",
+        "id": 622
+    },
+    {
+        "name": "Sanjuansaurus",
+        "description": "An early theropod from South America.",
+        "id": 913
+    },
+    {
+        "name": "Santanaraptor",
+        "description": "named after Brazil's Santana formation.",
+        "id": 963
+    },
+    {
+        "name": "Sarahsaurus",
+        "description": "This prosauropod had unusually strong hands.",
+        "id": 714
+    },
+    {
+        "name": "Sarcolestes",
+        "description": "The most likely ancestor of the ankylosaurs.",
+        "id": 1098
+    },
+    {
+        "name": "Sarcosaurus",
+        "description": "This 'flesh lizard' roamed early Jurassic England.",
+        "id": 1111
+    },
+    {
+        "name": "Saturnalia",
+        "description": "The earliest dinosaur known to have had a herbivorous diet.",
+        "id": 855
+    },
+    {
+        "name": "Saurolophus",
+        "description": "One of the few hadrosaurs known to have lived on two continents.",
+        "id": 629
+    },
+    {
+        "name": "Sauroniops",
+        "description": "This dinosaur's name means 'Eye of Sauron'.",
+        "id": 739
+    },
+    {
+        "name": "Sauropelta",
+        "description": "This ankylosaur's armor helped keep raptors at bay.",
+        "id": 1038
+    },
+    {
+        "name": "Saurophaganax",
+        "description": "The official state dinosaur of Oklahoma.",
+        "id": 1100
+    },
+    {
+        "name": "Sauroposeidon",
+        "description": "One of the tallest dinosaurs ever to walk the earth.",
+        "id": 1107
+    },
+    {
+        "name": "Saurornithoides",
+        "description": "A Troodon-like predator from central Asia.",
+        "id": 602
+    },
+    {
+        "name": "Saurornitholestes",
+        "description": "A close cousin of Velociraptor.",
+        "id": 1140
+    },
+    {
+        "name": "Savannasaurus",
+        "description": "This titanosaur was recently discovered in Australia.",
+        "id": 590
+    },
+    {
+        "name": "Scansoriopteryx",
+        "description": "This early proto-bird probably lived in trees.",
+        "id": 769
+    },
+    {
+        "name": "Scelidosaurus",
+        "description": "Among the earliest of all the armored dinosaurs.",
+        "id": 861
+    },
+    {
+        "name": "Scipionyx",
+        "description": "One of the most perfectly preserved dinosaur fossils ever found.",
+        "id": 976
+    },
+    {
+        "name": "Sciurumimus",
+        "description": "This 'squirrel mimic' was one of the earliest feathered dinosaurs.",
+        "id": 1056
+    },
+    {
+        "name": "Scolosaurus",
+        "description": "It was once classified as a species of Euoplocephalus.",
+        "id": 938
+    },
+    {
+        "name": "Scutellosaurus",
+        "description": "Probably the smallest of all the armored dinosaurs.",
+        "id": 798
+    },
+    {
+        "name": "Secernosaurus",
+        "description": "The first hadrosaur to be discovered in South America.",
+        "id": 802
+    },
+    {
+        "name": "Seitaad",
+        "description": "This small dinosaur may have been buried in an avalanche.",
+        "id": 1055
+    },
+    {
+        "name": "Segisaurus",
+        "description": "An early dinosaur closely related to Coelophysis.",
+        "id": 1088
+    },
+    {
+        "name": "Segnosaurus",
+        "description": "One of the most unusual (and poorly understood) Cretaceous dinosaurs.",
+        "id": 755
+    },
+    {
+        "name": "Seismosaurus",
+        "description": "It was huge, to be sure, but might it have been a species of Diplodocus?",
+        "id": 1083
+    },
+    {
+        "name": "Sellosaurus",
+        "description": "Another early prosauropod of the Triassic period.",
+        "id": 934
+    },
+    {
+        "name": "Serendipaceratops",
+        "description": "Was this really an Australian ceratopsian?",
+        "id": 1135
+    },
+    {
+        "name": "Shamosaurus",
+        "description": "This Mongolian ankylosaur was a close relative of Gobisaurus.",
+        "id": 1072
+    },
+    {
+        "name": "Shanag",
+        "description": "A basal raptor of early Cretaceous Asia.",
+        "id": 1157
+    },
+    {
+        "name": "Shantungosaurus",
+        "description": "The biggest of all the duck-billed dinosaurs.",
+        "id": 643
+    },
+    {
+        "name": "Shaochilong",
+        "description": "Its name is Chinese for 'shark-toothed dragon'.",
+        "id": 1038
+    },
+    {
+        "name": "Shenzhousaurus",
+        "description": "A small, primitive ornithomimid from China.",
+        "id": 631
+    },
+    {
+        "name": "Shunosaurus",
+        "description": "Anatomically speaking, probably the best known of all the sauropods.",
+        "id": 1017
+    },
+    {
+        "name": "Shuvosaurus",
+        "description": "Was this meat eater an early dinosaur or a two-legged crocodile?",
+        "id": 720
+    },
+    {
+        "name": "Shuvuuia",
+        "description": "Scientists can't decide if it was a dinosaur or a bird.",
+        "id": 941
+    },
+    {
+        "name": "Siamodon",
+        "description": "This ornithopod was recently discovered in Thailand.",
+        "id": 636
+    },
+    {
+        "name": "Siamosaurus",
+        "description": "This may (or may not) have been a spinosaur from Thailand.",
+        "id": 1030
+    },
+    {
+        "name": "Siamotyrannus",
+        "description": "Despite its name, it wasn't a true tyrannosaur.",
+        "id": 598
+    },
+    {
+        "name": "Siats",
+        "description": "One of the largest theropods ever to live in North America.",
+        "id": 1123
+    },
+    {
+        "name": "Sigilmassasaurus",
+        "description": "Was this really a species of Carcharodontosaurus?",
+        "id": 1129
+    },
+    {
+        "name": "Silvisaurus",
+        "description": "This primitive nodosaur was discovered in Kansas.",
+        "id": 821
+    },
+    {
+        "name": "Similicaudipteryx",
+        "description": "The juveniles may have been differently feathered than the adults.",
+        "id": 943
+    },
+    {
+        "name": "Sinocalliopteryx",
+        "description": "The biggest 'dino-bird' yet discovered.",
+        "id": 635
+    },
+    {
+        "name": "Sinoceratops",
+        "description": "A rare ceratopsian from late Cretaceous China.",
+        "id": 745
+    },
+    {
+        "name": "Sinornithoides",
+        "description": "A small, feathered dinosaur closely related to Troodon.",
+        "id": 784
+    },
+    {
+        "name": "Sinornithomimus",
+        "description": "This ornithomimid is known from over a dozen skeletons.",
+        "id": 1052
+    },
+    {
+        "name": "Sinornithosaurus",
+        "description": "A typical dino-bird of the early Cretaceous.",
+        "id": 838
+    },
+    {
+        "name": "Sinosauropteryx",
+        "description": "The first dinosaur proven to have feathers.",
+        "id": 920
+    },
+    {
+        "name": "Sinosaurus",
+        "description": "It was once classified as an Asian species of Dilophosaurus.",
+        "id": 962
+    },
+    {
+        "name": "Sinotyrannus",
+        "description": "This 'Chinese tyrant' was an ancient ancestor of tyrannosaurs.",
+        "id": 1134
+    },
+    {
+        "name": "Sinovenator",
+        "description": "This 'Chinese hunter' preyed on its fellow dino-birds.",
+        "id": 830
+    },
+    {
+        "name": "Sinraptor",
+        "description": "Despite its name, this allosaur wasn't any better or worse than other dinosaurs.",
+        "id": 843
+    },
+    {
+        "name": "Sinusonasus",
+        "description": "It sounds like a disease, but it was actually a feathered dinosaur.",
+        "id": 1015
+    },
+    {
+        "name": "Skorpiovenator",
+        "description": "This 'scorpion hunter' really ate meat.",
+        "id": 1214
+    },
+    {
+        "name": "Sonorasaurus",
+        "description": "The remains of this sauropod were discovered in Arizona.",
+        "id": 950
+    },
+    {
+        "name": "Sphaerotholus",
+        "description": "Yet another dome-headed dino from North America.",
+        "id": 1039
+    },
+    {
+        "name": "Spinophorosaurus",
+        "description": "This early sauropod had a 'thagomizer' on its tail.",
+        "id": 1010
+    },
+    {
+        "name": "Spinops",
+        "description": "This ceratopsian was named 100 years after its bones were found.",
+        "id": 1059
+    },
+    {
+        "name": "Spinosaurus",
+        "description": "This dinosaur was distinguished by the sail-like structure on its back.",
+        "id": 646
+    },
+    {
+        "name": "Spinostropheus",
+        "description": "This theropod was once thought to be a species of Elaphrosaurus.",
+        "id": 735
+    },
+    {
+        "name": "Staurikosaurus",
+        "description": "Another primitive theropod of the Triassic period.",
+        "id": 1061
+    },
+    {
+        "name": "Stegoceras",
+        "description": "This small herbivore was built for high-speed head-butting.",
+        "id": 1161
+    },
+    {
+        "name": "Stegosaurus",
+        "description": "The small-brained, spike-tailed, plant-eating dinosaur.",
+        "id": 894
+    },
+    {
+        "name": "Stenopelix",
+        "description": "Experts aren't sure how to classify this dinosaur.",
+        "id": 819
+    },
+    {
+        "name": "Stokesosaurus",
+        "description": "Some experts think this was the earliest tyrannosaur.",
+        "id": 996
+    },
+    {
+        "name": "Struthiomimus",
+        "description": "This 'ostrich mimic' roamed the plains of North America.",
+        "id": 1200
+    },
+    {
+        "name": "Struthiosaurus",
+        "description": "The smallest nodosaur yet discovered.",
+        "id": 902
+    },
+    {
+        "name": "Stygimoloch",
+        "description": "Its name means 'demon from the river of death.' Got your attention yet?",
+        "id": 1067
+    },
+    {
+        "name": "Styracosaurus",
+        "description": "Winner of the 'most elaborate head display' competition.",
+        "id": 1115
+    },
+    {
+        "name": "Suchomimus",
+        "description": "A fish-eating dinosaur with a distinct crocodilian profile.",
+        "id": 1031
+    },
+    {
+        "name": "Sulaimanisaurus",
+        "description": "One of the few dinosaurs ever to be discovered in Pakistan.",
+        "id": 1042
+    },
+    {
+        "name": "Supersaurus",
+        "description": "No, it didn't wear a cape, but this giant dino was still impressive.",
+        "id": 837
+    },
+    {
+        "name": "Suuwassea",
+        "description": "Its name is Native American for 'ancient thunder'.",
+        "id": 663
+    },
+    {
+        "name": "Suzhousaurus",
+        "description": "A large, early Cretaceous therizinosaur.",
+        "id": 790
+    },
+    {
+        "name": "Szechuanosaurus",
+        "description": "This theropod was a close relative of Sinraptor.",
+        "id": 807
+    },
+    {
+        "name": "Tachiraptor",
+        "description": "The first meat-eating dinosaur ever to be discovered in Venezuela.",
+        "id": 896
+    },
+    {
+        "name": "Talarurus",
+        "description": "This ankylosaur was discovered in the Gobi Desert.",
+        "id": 764
+    },
+    {
+        "name": "Talos",
+        "description": "This dinosaur was found with an injured big toe.",
+        "id": 1106
+    },
+    {
+        "name": "Tangvayosaurus",
+        "description": "This Laotian titanosaur was closely related to Phuwiangosaurus.",
+        "id": 1232
+    },
+    {
+        "name": "Tanius",
+        "description": "Not much is known about this Chinese hadrosaur.",
+        "id": 992
+    },
+    {
+        "name": "Tanycolagreus",
+        "description": "This mysterious theropod was once thought to be a species of Coelurus.",
+        "id": 1056
+    },
+    {
+        "name": "Taohelong",
+        "description": "The first 'polacanthine' ankylosaur ever to be discovered in Asia.",
+        "id": 926
+    },
+    {
+        "name": "Tapuiasaurus",
+        "description": "A recently discovered titanosaur from South America.",
+        "id": 683
+    },
+    {
+        "name": "Tarascosaurus",
+        "description": "The only known abelisaur of the northern hemisphere.",
+        "id": 725
+    },
+    {
+        "name": "Tarbosaurus",
+        "description": "The second-biggest tyrannosaur after T. Rex.",
+        "id": 981
+    },
+    {
+        "name": "Tarchia",
+        "description": "Its name means 'brainy,' but that may be an exaggeration.",
+        "id": 878
+    },
+    {
+        "name": "Tastavinsaurus",
+        "description": "This titanosaur was discovered in Spain.",
+        "id": 1075
+    },
+    {
+        "name": "Tatankacephalus",
+        "description": "A brand-new ankylosaur from North America.",
+        "id": 915
+    },
+    {
+        "name": "Tatankaceratops",
+        "description": "Was this really a juvenile specimen of Triceratops?",
+        "id": 1116
+    },
+    {
+        "name": "Tataouinea",
+        "description": "No, this dinosaur wasn't named after Tatooine in Star Wars.",
+        "id": 886
+    },
+    {
+        "name": "Tawa",
+        "description": "This ancient theropod points to a South American origin for dinosaurs.",
+        "id": 730
+    },
+    {
+        "name": "Tazoudasaurus",
+        "description": "This Vulcanodon relative was one of the earliest sauropods.",
+        "id": 773
+    },
+    {
+        "name": "Technosaurus",
+        "description": "This early herbivore was named after Texas Tech university.",
+        "id": 960
+    },
+    {
+        "name": "Tehuelchesaurus",
+        "description": "This sauropod was named after an indigenous South American people.",
+        "id": 893
+    },
+    {
+        "name": "Telmatosaurus",
+        "description": "This duck-billed dinosaur was discovered in Transylvania.",
+        "id": 1258
+    },
+    {
+        "name": "Tendaguria",
+        "description": "This Tanzanian sauropod has proven difficult to classify.",
+        "id": 909
+    },
+    {
+        "name": "Tenontosaurus",
+        "description": "This long-tailed herbivore was hunted by Deinonychus.",
+        "id": 1017
+    },
+    {
+        "name": "Teratophoneus",
+        "description": "This 'monstrous murderer' wasn't all that big.",
+        "id": 964
+    },
+    {
+        "name": "Tethyshadros",
+        "description": "One of the few dinosaurs to be found in modern-day Italy.",
+        "id": 863
+    },
+    {
+        "name": "Texacephale",
+        "description": "This Texan pachycephalosaur was named in 2010.",
+        "id": 928
+    },
+    {
+        "name": "Thecocoelurus",
+        "description": "Is this the earliest ornithomimid in the fossil record?",
+        "id": 896
+    },
+    {
+        "name": "Thecodontosaurus",
+        "description": "The first prosauropod ever to be discovered.",
+        "id": 673
+    },
+    {
+        "name": "Theiophytalia",
+        "description": "Its name means 'garden of the gods'.",
+        "id": 1177
+    },
+    {
+        "name": "Therizinosaurus",
+        "description": "What did Little Orphan Annie say to this dinosaur? 'Reaping lizards!'",
+        "id": 1115
+    },
+    {
+        "name": "Thescelosaurus",
+        "description": "Did paleontologists find this dinosaur's mummified heart?",
+        "id": 1230
+    },
+    {
+        "name": "Tianchisaurus",
+        "description": "This dinosaur's species name honors 'Jurassic Park'.",
+        "id": 1303
+    },
+    {
+        "name": "Tianyulong",
+        "description": "Why did this ornithopod have feathers?",
+        "id": 1300
+    },
+    {
+        "name": "Tianyuraptor",
+        "description": "A small, long-legged raptor from eastern Asia.",
+        "id": 980
+    },
+    {
+        "name": "Tianzhenosaurus",
+        "description": "This ankylosaur's skull has been spectacularly preserved.",
+        "id": 794
+    },
+    {
+        "name": "Timimus",
+        "description": "The only ornithomimid ever discovered in Australia.",
+        "id": 895
+    },
+    {
+        "name": "Titanoceratops",
+        "description": "The biggest of all the horned, frilled dinosaurs.",
+        "id": 1083
+    },
+    {
+        "name": "Titanosaurus",
+        "description": "This sauropod may—or may not—have been a unique member of its genus.",
+        "id": 1075
+    },
+    {
+        "name": "Tochisaurus",
+        "description": "A large troodont of late Cretaceous Asia.",
+        "id": 810
+    },
+    {
+        "name": "Tornieria",
+        "description": "This sauropod has a complicated taxonomic history.",
+        "id": 976
+    },
+    {
+        "name": "Torosaurus",
+        "description": "Was it really an elderly specimen of Triceratops?",
+        "id": 1151
+    },
+    {
+        "name": "Torvosaurus",
+        "description": "One of the largest predators of Jurassic North America.",
+        "id": 844
+    },
+    {
+        "name": "Triceratops",
+        "description": "The famous, three-horned, plant-eating dinosaur.",
+        "id": 678
+    },
+    {
+        "name": "Trinisaura",
+        "description": "The first ornithopod ever to be discovered in Antarctica.",
+        "id": 1192
+    },
+    {
+        "name": "Troodon",
+        "description": "Possibly the smartest dinosaur that ever lived.",
+        "id": 1040
+    },
+    {
+        "name": "Tsaagan",
+        "description": "One of the earliest raptors yet discovered.",
+        "id": 1024
+    },
+    {
+        "name": "Tsintaosaurus",
+        "description": "Also known as the 'Unicorn Dinosaur'.",
+        "id": 1068
+    },
+    {
+        "name": "Tuojiangosaurus",
+        "description": "One of the most well-known Chinese stegosaurs.",
+        "id": 1115
+    },
+    {
+        "name": "Turanoceratops",
+        "description": "What was this ceratopsian doing in late Cretaceous Asia?",
+        "id": 813
+    },
+    {
+        "name": "Turiasaurus",
+        "description": "The largest dinosaur ever to be discovered in Europe.",
+        "id": 1264
+    },
+    {
+        "name": "Tylocephale",
+        "description": "The tallest-domed of all the pachycephalosaurs.",
+        "id": 1231
+    },
+    {
+        "name": "Tyrannosaurus Rex",
+        "description": "The once—and always—king of the dinosaurs.",
+        "id": 896
+    },
+    {
+        "name": "Tyrannotitan",
+        "description": "We know very little about this fearsomely named dinosaur.",
+        "id": 1001
+    },
+    {
+        "name": "Uberabatitan",
+        "description": "Discovered in the Uberaba region of Brazil.",
+        "id": 985
+    },
+    {
+        "name": "Udanoceratops",
+        "description": "The largest ceratopsian to run on two legs.",
+        "id": 1306
+    },
+    {
+        "name": "Unaysaurus",
+        "description": "One of the oldest prosauropods yet discovered.",
+        "id": 1334
+    },
+    {
+        "name": "Unenlagia",
+        "description": "This bird-like raptor was native to South America.",
+        "id": 1159
+    },
+    {
+        "name": "Unescoceratops",
+        "description": "named after the United Nation's UNESCO.",
+        "id": 1103
+    },
+    {
+        "name": "Urbacodon",
+        "description": "This Troodon-like predator was discovered in Uzbekistan.",
+        "id": 1031
+    },
+    {
+        "name": "Utahceratops",
+        "description": "Guess what state this dinosaur was discovered in.",
+        "id": 1266
+    },
+    {
+        "name": "Utahraptor",
+        "description": "Probably the biggest raptor that ever lived.",
+        "id": 968
+    },
+    {
+        "name": "Uteodon",
+        "description": "It was once classified as a species of Camptosaurus.",
+        "id": 1125
+    },
+    {
+        "name": "Vagaceratops",
+        "description": "This big-frilled dinosaur was closely related to Kosmoceratops.",
+        "id": 940
+    },
+    {
+        "name": "Vahiny",
+        "description": "Its name is Malagasy for 'traveler'.",
+        "id": 877
+    },
+    {
+        "name": "Valdoraptor",
+        "description": "This early 'bird mimic' dinosaur lived in England.",
+        "id": 927
+    },
+    {
+        "name": "Valdosaurus",
+        "description": "This ornithopod was discovered on the Isle of Wight.",
+        "id": 1105
+    },
+    {
+        "name": "Variraptor",
+        "description": "The first raptor ever to be discovered in France.",
+        "id": 1211
+    },
+    {
+        "name": "Velafrons",
+        "description": "A new addition to the duck-billed dinosaur family.",
+        "id": 1181
+    },
+    {
+        "name": "Velociraptor",
+        "description": "This dinosaur was vicious but a lot smaller than you thought.",
+        "id": 940
+    },
+    {
+        "name": "Velocisaurus",
+        "description": "A small, speedy theropod of late Cretaceous South America.",
+        "id": 916
+    },
+    {
+        "name": "Venenosaurus",
+        "description": "This 'poison lizard' was really a gentle plant-eater.",
+        "id": 1369
+    },
+    {
+        "name": "Veterupristisaurus",
+        "description": "One of the earliest carcharodontosaurs yet identified.",
+        "id": 822
+    },
+    {
+        "name": "Vulcanodon",
+        "description": "An early sauropod of the Jurassic period.",
+        "id": 1179
+    },
+    {
+        "name": "Wannanosaurus",
+        "description": "Probably the smallest of all the bone-headed dinosaurs.",
+        "id": 1398
+    },
+    {
+        "name": "Wellnhoferia",
+        "description": "Was it really a species of Archaeopteryx?",
+        "id": 1345
+    },
+    {
+        "name": "Wendiceratops",
+        "description": "This dinosaur honors Canadian fossil hunter Wendy Sloboda.",
+        "id": 1007
+    },
+    {
+        "name": "Willinakaqe",
+        "description": "A rare duck-billed dinosaur from South America.",
+        "id": 1326
+    },
+    {
+        "name": "Wintonotitan",
+        "description": "Another new titanosaur from Australia.",
+        "id": 723
+    },
+    {
+        "name": "Wuerhosaurus",
+        "description": "Could this have been the last of the stegosaurs?",
+        "id": 1335
+    },
+    {
+        "name": "Wulagasaurus",
+        "description": "The earliest saurolophine hadrosaur in the fossil record.",
+        "id": 1277
+    },
+    {
+        "name": "Xenoceratops",
+        "description": "This 'alien horned face' was announced in 2012.",
+        "id": 1229
+    },
+    {
+        "name": "Xenoposeidon",
+        "description": "Experts aren't sure how to classify this sauropod.",
+        "id": 771
+    },
+    {
+        "name": "Xenotarsosaurus",
+        "description": "A poorly understood abelisaur from South America.",
+        "id": 1078
+    },
+    {
+        "name": "Xiaosaurus",
+        "description": "A small ornithopod from late Jurassic Asia.",
+        "id": 764
+    },
+    {
+        "name": "Xiaotingia",
+        "description": "This feathered dinosaur predated Archaeopteryx.",
+        "id": 822
+    },
+    {
+        "name": "Xinjiangtitan",
+        "description": "This huge sauropod was a close relative of Mamenchisaurus.",
+        "id": 771
+    },
+    {
+        "name": "Xiongguanlong",
+        "description": "A small, primitive tyrannosaur from Asia.",
+        "id": 1022
+    },
+    {
+        "name": "Xixianykus",
+        "description": "A long-legged dino-bird from eastern Asia.",
+        "id": 1075
+    },
+    {
+        "name": "Xuanhanosaurus",
+        "description": "You didn't think there'd be so many 'X''s on this list, did you?",
+        "id": 1161
+    },
+    {
+        "name": "Xuanhuaceratops",
+        "description": "An early ceratopsian of the late Jurassic.",
+        "id": 1061
+    },
+    {
+        "name": "Xuwulong",
+        "description": "This iguanodontid ornithopod was recently discovered in China.",
+        "id": 938
+    },
+    {
+        "name": "Yamaceratops",
+        "description": "No, it didn't have a sweet potato for a head.",
+        "id": 1300
+    },
+    {
+        "name": "Yandusaurus",
+        "description": "A small ornithopod of middle Jurassic China.",
+        "id": 894
+    },
+    {
+        "name": "Yangchuanosaurus",
+        "description": "A large theropod of late Jurassic Asia.",
+        "id": 808
+    },
+    {
+        "name": "Yaverlandia",
+        "description": "A classic case of mistaken dinosaur identity.",
+        "id": 1047
+    },
+    {
+        "name": "Yi Qi",
+        "description": "This strange Jurassic dinosaur had bat-like wings.",
+        "id": 928
+    },
+    {
+        "name": "Yimenosaurus",
+        "description": "One of the better-known Chinese prosauropods.",
+        "id": 944
+    },
+    {
+        "name": "Yinlong",
+        "description": "This 'hidden dragon' was an early ceratopsian.",
+        "id": 778
+    },
+    {
+        "name": "Yixianosaurus",
+        "description": "How did this dino-bird use its long fingers?",
+        "id": 1280
+    },
+    {
+        "name": "Yizhousaurus",
+        "description": "The earliest intact sauropod yet discovered.",
+        "id": 1123
+    },
+    {
+        "name": "Yongjinglong",
+        "description": "This titanosaur was recently discovered in China.",
+        "id": 887
+    },
+    {
+        "name": "Yueosaurus",
+        "description": "This basal ornithopod was discovered by construction workers.",
+        "id": 768
+    },
+    {
+        "name": "Yulong",
+        "description": "The smallest oviraptor yet identified.",
+        "id": 840
+    },
+    {
+        "name": "Yunnanosaurus",
+        "description": "One of the last prosauropods to walk the earth.",
+        "id": 1012
+    },
+    {
+        "name": "Yutyrannus",
+        "description": "The largest feathered tyrannosaur yet identified.",
+        "id": 1353
+    },
+    {
+        "name": "Zalmoxes",
+        "description": "A strange-looking ornithopod from Romania.",
+        "id": 1084
+    },
+    {
+        "name": "Zanabazar",
+        "description": "named after a Buddhist spiritual leader.",
+        "id": 935
+    },
+    {
+        "name": "Zapalasaurus",
+        "description": "This 'diplodocoid' sauropod lived in early Cretaceous South America.",
+        "id": 1004
+    },
+    {
+        "name": "Zby",
+        "description": "This dinosaur's name was inversely proportional to its size.",
+        "id": 1358
+    },
+    {
+        "name": "Zephyrosaurus",
+        "description": "Otherwise known as the Western Wind Lizard.",
+        "id": 1478
+    },
+    {
+        "name": "Zhanghenglong",
+        "description": "A transitional hadrosaur of late Cretaceous Asia.",
+        "id": 1144
+    },
+    {
+        "name": "Zhejiangosaurus",
+        "description": "The first identified nodosaur from Asia.",
+        "id": 1345
+    },
+    {
+        "name": "Zhenyuanlong",
+        "description": "Also known as the 'fluffy feathered poodle from hell'.",
+        "id": 1465
+    },
+    {
+        "name": "Zhongyuansaurus",
+        "description": "The only known ankylosaur to lack a tail club.",
+        "id": 1237
+    },
+    {
+        "name": "Zhuchengceratops",
+        "description": "It probably figured on the lunch menu of Zhuchengtyrannus.",
+        "id": 1236
+    },
+    {
+        "name": "Zhuchengosaurus",
+        "description": "This hadrosaur was even bigger than Shantungosaurus.",
+        "id": 1093
+    },
+    {
+        "name": "Zhuchengtyrannus",
+        "description": "This Asian tyrannosaur was the size of T. Rex.",
+        "id": 915
+    },
+    {
+        "name": "Zuniceratops",
+        "description": "This horned dinosaur was discovered by an eight-year-old boy.",
+        "id": 792
+    },
+    {
+        "name": "Zuolong",
+        "description": "It was named after General Tso, of Chinese restaurant fame.",
+        "id": 1450
+    },
+    {
+        "name": "Zupaysaurus",
+        "description": "This 'devil lizard' was one of the earliest theropods.",
+        "id": 1488
+    }
+]
